@@ -1,0 +1,3634 @@
+[
+  {
+    "path": "/ar",
+    "component": "~/pages/dashboard/sales/index.vue",
+    "_name": "_7a6dbb4c"
+  },
+  {
+    "name": "Customers___en",
+    "path": "/Customers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Customers\\\\index.vue",
+    "chunkName": "pages/Customers/index",
+    "_name": "_6dfd381d"
+  },
+  {
+    "path": "/es",
+    "component": "~/pages/dashboard/sales/index.vue",
+    "_name": "_7a6dbb4c"
+  },
+  {
+    "path": "/fr",
+    "component": "~/pages/dashboard/sales/index.vue",
+    "_name": "_7a6dbb4c"
+  },
+  {
+    "name": "PurchaseOrders___en",
+    "path": "/PurchaseOrders",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\index.vue",
+    "chunkName": "pages/PurchaseOrders/index",
+    "_name": "_1217743c"
+  },
+  {
+    "name": "widgets___en",
+    "path": "/widgets",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\widgets\\\\index.vue",
+    "chunkName": "pages/widgets/index",
+    "_name": "_1994113a"
+  },
+  {
+    "name": "account-forgot-password___en",
+    "path": "/account/forgot-password",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_0f022b18"
+  },
+  {
+    "name": "account-login___en",
+    "path": "/account/login",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_701e843c"
+  },
+  {
+    "name": "account-register___en",
+    "path": "/account/register",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_2d8f5b20"
+  },
+  {
+    "name": "AccountManagement-accountConfig___en",
+    "path": "/AccountManagement/accountConfig",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\AccountManagement\\\\accountConfig.vue",
+    "chunkName": "pages/AccountManagement/accountConfig",
+    "_name": "_7e9f3882"
+  },
+  {
+    "name": "apps-calendar___en",
+    "path": "/apps/calendar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\calendar\\\\index.vue",
+    "chunkName": "pages/apps/calendar/index",
+    "_name": "_282012b2"
+  },
+  {
+    "name": "apps-chat___en",
+    "path": "/apps/chat",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\chat\\\\index.vue",
+    "chunkName": "pages/apps/chat/index",
+    "_name": "_0407cd50"
+  },
+  {
+    "name": "apps-Companies___en",
+    "path": "/apps/Companies",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\Companies\\\\index.vue",
+    "chunkName": "pages/apps/Companies/index",
+    "_name": "_f6cedd6e"
+  },
+  {
+    "name": "apps-file-manager___en",
+    "path": "/apps/file-manager",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\file-manager.vue",
+    "chunkName": "pages/apps/file-manager",
+    "_name": "_6793bcee"
+  },
+  {
+    "name": "Customers___ar",
+    "path": "/ar/Customers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Customers\\\\index.vue",
+    "chunkName": "pages/Customers/index",
+    "_name": "_6dfd381d"
+  },
+  {
+    "name": "PurchaseOrders___ar",
+    "path": "/ar/PurchaseOrders",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\index.vue",
+    "chunkName": "pages/PurchaseOrders/index",
+    "_name": "_1217743c"
+  },
+  {
+    "name": "widgets___ar",
+    "path": "/ar/widgets",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\widgets\\\\index.vue",
+    "chunkName": "pages/widgets/index",
+    "_name": "_1994113a"
+  },
+  {
+    "name": "charts-apex___en",
+    "path": "/charts/apex",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\apex\\\\index.vue",
+    "chunkName": "pages/charts/apex/index",
+    "_name": "_12774bcb"
+  },
+  {
+    "name": "charts-c3___en",
+    "path": "/charts/c3",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\c3\\\\index.vue",
+    "chunkName": "pages/charts/c3/index",
+    "_name": "_8bc1ae86"
+  },
+  {
+    "name": "charts-chartist___en",
+    "path": "/charts/chartist",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\index.vue",
+    "chunkName": "pages/charts/chartist/index",
+    "_name": "_9beca57e"
+  },
+  {
+    "name": "charts-chartjs___en",
+    "path": "/charts/chartjs",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\index.vue",
+    "chunkName": "pages/charts/chartjs/index",
+    "_name": "_0372c0c0"
+  },
+  {
+    "name": "charts-knob___en",
+    "path": "/charts/knob",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\knob.vue",
+    "chunkName": "pages/charts/knob",
+    "_name": "_a7db17aa"
+  },
+  {
+    "name": "contacts-list___en",
+    "path": "/contacts/list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\contacts\\\\list.vue",
+    "chunkName": "pages/contacts/list",
+    "_name": "_a2b7525e"
+  },
+  {
+    "name": "contacts-profile___en",
+    "path": "/contacts/profile",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\contacts\\\\profile.vue",
+    "chunkName": "pages/contacts/profile",
+    "_name": "_501f0346"
+  },
+  {
+    "name": "Customers-data___en",
+    "path": "/Customers/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Customers\\\\data.js",
+    "chunkName": "pages/Customers/data",
+    "_name": "_58949880"
+  },
+  {
+    "name": "dashboard-analytics___en",
+    "path": "/dashboard/analytics",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\index.vue",
+    "chunkName": "pages/dashboard/analytics/index",
+    "_name": "_10e43530"
+  },
+  {
+    "name": "dashboard-crm___en",
+    "path": "/dashboard/crm",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\crm\\\\index.vue",
+    "chunkName": "pages/dashboard/crm/index",
+    "_name": "_0038fe50"
+  },
+  {
+    "name": "dashboard-sales___en",
+    "path": "/dashboard/sales",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\sales\\\\index.vue",
+    "chunkName": "pages/dashboard/sales/index",
+    "_name": "_18ccc42c"
+  },
+  {
+    "name": "ecommerce-cart___en",
+    "path": "/ecommerce/cart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\cart.vue",
+    "chunkName": "pages/ecommerce/cart",
+    "_name": "_2291cdf0"
+  },
+  {
+    "name": "ecommerce-checkout___en",
+    "path": "/ecommerce/checkout",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\checkout.vue",
+    "chunkName": "pages/ecommerce/checkout",
+    "_name": "_2d4b7dd4"
+  },
+  {
+    "name": "ecommerce-data-products___en",
+    "path": "/ecommerce/data-products",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\data-products.js",
+    "chunkName": "pages/ecommerce/data-products",
+    "_name": "_ccadeeb0"
+  },
+  {
+    "name": "ecommerce-order-detail___en",
+    "path": "/ecommerce/order-detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\order-detail.vue",
+    "chunkName": "pages/ecommerce/order-detail",
+    "_name": "_38c99a80"
+  },
+  {
+    "name": "ecommerce-orders___en",
+    "path": "/ecommerce/orders",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\orders\\\\index.vue",
+    "chunkName": "pages/ecommerce/orders/index",
+    "_name": "_d77c3ca6"
+  },
+  {
+    "name": "ecommerce-product-create___en",
+    "path": "/ecommerce/product-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\product-create.vue",
+    "chunkName": "pages/ecommerce/product-create",
+    "_name": "_57bd436a"
+  },
+  {
+    "name": "ecommerce-products___en",
+    "path": "/ecommerce/products",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products\\\\index.vue",
+    "chunkName": "pages/ecommerce/products/index",
+    "_name": "_1205a864"
+  },
+  {
+    "name": "ecommerce-products-grid___en",
+    "path": "/ecommerce/products-grid",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products-grid.vue",
+    "chunkName": "pages/ecommerce/products-grid",
+    "_name": "_6b12bbef"
+  },
+  {
+    "name": "ecommerce-sellers___en",
+    "path": "/ecommerce/sellers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\sellers.vue",
+    "chunkName": "pages/ecommerce/sellers",
+    "_name": "_baade398"
+  },
+  {
+    "name": "ecommerce-Variant-product-create___en",
+    "path": "/ecommerce/Variant-product-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\Variant-product-create.vue",
+    "chunkName": "pages/ecommerce/Variant-product-create",
+    "_name": "_805cb45c"
+  },
+  {
+    "name": "email-data-inbox___en",
+    "path": "/email/data-inbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\data-inbox.js",
+    "chunkName": "pages/email/data-inbox",
+    "_name": "_56d01260"
+  },
+  {
+    "name": "email-inbox___en",
+    "path": "/email/inbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\inbox.vue",
+    "chunkName": "pages/email/inbox",
+    "_name": "_7553360a"
+  },
+  {
+    "name": "email-sidepanel___en",
+    "path": "/email/sidepanel",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\sidepanel.vue",
+    "chunkName": "pages/email/sidepanel",
+    "_name": "_b6cee5de"
+  },
+  {
+    "name": "email-templates___en",
+    "path": "/email/templates",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\templates.vue",
+    "chunkName": "pages/email/templates",
+    "_name": "_1c3d6f3d"
+  },
+  {
+    "name": "email-toolbar___en",
+    "path": "/email/toolbar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\toolbar.vue",
+    "chunkName": "pages/email/toolbar",
+    "_name": "_3b925d02"
+  },
+  {
+    "name": "Customers___es",
+    "path": "/es/Customers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Customers\\\\index.vue",
+    "chunkName": "pages/Customers/index",
+    "_name": "_6dfd381d"
+  },
+  {
+    "name": "PurchaseOrders___es",
+    "path": "/es/PurchaseOrders",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\index.vue",
+    "chunkName": "pages/PurchaseOrders/index",
+    "_name": "_1217743c"
+  },
+  {
+    "name": "widgets___es",
+    "path": "/es/widgets",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\widgets\\\\index.vue",
+    "chunkName": "pages/widgets/index",
+    "_name": "_1994113a"
+  },
+  {
+    "name": "extras-404___en",
+    "path": "/extras/404",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\404.vue",
+    "chunkName": "pages/extras/404",
+    "_name": "_99712076"
+  },
+  {
+    "name": "extras-404-alt___en",
+    "path": "/extras/404-alt",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\404-alt.vue",
+    "chunkName": "pages/extras/404-alt",
+    "_name": "_119a71a1"
+  },
+  {
+    "name": "extras-500___en",
+    "path": "/extras/500",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\500.vue",
+    "chunkName": "pages/extras/500",
+    "_name": "_301565fc"
+  },
+  {
+    "name": "extras-coming-soon___en",
+    "path": "/extras/coming-soon",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\coming-soon.vue",
+    "chunkName": "pages/extras/coming-soon",
+    "_name": "_22740ed4"
+  },
+  {
+    "name": "extras-faqs___en",
+    "path": "/extras/faqs",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\faqs.vue",
+    "chunkName": "pages/extras/faqs",
+    "_name": "_e9143a40"
+  },
+  {
+    "name": "extras-invoice___en",
+    "path": "/extras/invoice",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\invoice.vue",
+    "chunkName": "pages/extras/invoice",
+    "_name": "_b11c368c"
+  },
+  {
+    "name": "extras-lightbox___en",
+    "path": "/extras/lightbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\lightbox.vue",
+    "chunkName": "pages/extras/lightbox",
+    "_name": "_6e04ba38"
+  },
+  {
+    "name": "extras-maintenance___en",
+    "path": "/extras/maintenance",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\maintenance.vue",
+    "chunkName": "pages/extras/maintenance",
+    "_name": "_59c66f20"
+  },
+  {
+    "name": "extras-pricing___en",
+    "path": "/extras/pricing",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\pricing.vue",
+    "chunkName": "pages/extras/pricing",
+    "_name": "_37b24cd3"
+  },
+  {
+    "name": "extras-search-results___en",
+    "path": "/extras/search-results",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\search-results.vue",
+    "chunkName": "pages/extras/search-results",
+    "_name": "_26bcd3d4"
+  },
+  {
+    "name": "extras-sitemap___en",
+    "path": "/extras/sitemap",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\sitemap.vue",
+    "chunkName": "pages/extras/sitemap",
+    "_name": "_4c674a42"
+  },
+  {
+    "name": "extras-starter___en",
+    "path": "/extras/starter",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\starter.vue",
+    "chunkName": "pages/extras/starter",
+    "_name": "_ebb53dc8"
+  },
+  {
+    "name": "extras-timeline___en",
+    "path": "/extras/timeline",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\timeline.vue",
+    "chunkName": "pages/extras/timeline",
+    "_name": "_4e0240f8"
+  },
+  {
+    "name": "Finance-BalanceTransaction___en",
+    "path": "/Finance/BalanceTransaction",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\BalanceTransaction.vue",
+    "chunkName": "pages/Finance/BalanceTransaction",
+    "_name": "_73b4d7cc"
+  },
+  {
+    "name": "Finance-CompanyFile___en",
+    "path": "/Finance/CompanyFile",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\CompanyFile.vue",
+    "chunkName": "pages/Finance/CompanyFile",
+    "_name": "_35c06a1f"
+  },
+  {
+    "name": "Finance-Invoices___en",
+    "path": "/Finance/Invoices",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Invoices.vue",
+    "chunkName": "pages/Finance/Invoices",
+    "_name": "_6c42ecd0"
+  },
+  {
+    "name": "Finance-Payments___en",
+    "path": "/Finance/Payments",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Payments.vue",
+    "chunkName": "pages/Finance/Payments",
+    "_name": "_f26544d2"
+  },
+  {
+    "name": "forms-advanced___en",
+    "path": "/forms/advanced",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\advanced.vue",
+    "chunkName": "pages/forms/advanced",
+    "_name": "_c3da5cbe"
+  },
+  {
+    "name": "forms-elements___en",
+    "path": "/forms/elements",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements",
+    "_name": "_508c9014"
+  },
+  {
+    "name": "forms-file-uploads___en",
+    "path": "/forms/file-uploads",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\file-uploads.vue",
+    "chunkName": "pages/forms/file-uploads",
+    "_name": "_720bc5c0"
+  },
+  {
+    "name": "forms-mask___en",
+    "path": "/forms/mask",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\mask.vue",
+    "chunkName": "pages/forms/mask",
+    "_name": "_461c06eb"
+  },
+  {
+    "name": "forms-quill___en",
+    "path": "/forms/quill",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\quill.vue",
+    "chunkName": "pages/forms/quill",
+    "_name": "_3fe4ced4"
+  },
+  {
+    "name": "forms-validation___en",
+    "path": "/forms/validation",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation",
+    "_name": "_542650b8"
+  },
+  {
+    "name": "forms-wizard___en",
+    "path": "/forms/wizard",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\wizard.vue",
+    "chunkName": "pages/forms/wizard",
+    "_name": "_d5649fac"
+  },
+  {
+    "name": "Customers___fr",
+    "path": "/fr/Customers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Customers\\\\index.vue",
+    "chunkName": "pages/Customers/index",
+    "_name": "_6dfd381d"
+  },
+  {
+    "name": "PurchaseOrders___fr",
+    "path": "/fr/PurchaseOrders",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\index.vue",
+    "chunkName": "pages/PurchaseOrders/index",
+    "_name": "_1217743c"
+  },
+  {
+    "name": "widgets___fr",
+    "path": "/fr/widgets",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\widgets\\\\index.vue",
+    "chunkName": "pages/widgets/index",
+    "_name": "_1994113a"
+  },
+  {
+    "name": "icons-boxicons___en",
+    "path": "/icons/boxicons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\boxicons.vue",
+    "chunkName": "pages/icons/boxicons",
+    "_name": "_674fb24e"
+  },
+  {
+    "name": "icons-data-fontawesome___en",
+    "path": "/icons/data-fontawesome",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-fontawesome.js",
+    "chunkName": "pages/icons/data-fontawesome",
+    "_name": "_665b14f4"
+  },
+  {
+    "name": "icons-data-material___en",
+    "path": "/icons/data-material",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-material.js",
+    "chunkName": "pages/icons/data-material",
+    "_name": "_a42bdf42"
+  },
+  {
+    "name": "icons-data-remix___en",
+    "path": "/icons/data-remix",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-remix.js",
+    "chunkName": "pages/icons/data-remix",
+    "_name": "_483b9f7f"
+  },
+  {
+    "name": "icons-feather___en",
+    "path": "/icons/feather",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\feather.vue",
+    "chunkName": "pages/icons/feather",
+    "_name": "_6b59602e"
+  },
+  {
+    "name": "icons-font-awesome___en",
+    "path": "/icons/font-awesome",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\font-awesome.vue",
+    "chunkName": "pages/icons/font-awesome",
+    "_name": "_2db7978f"
+  },
+  {
+    "name": "icons-mdi___en",
+    "path": "/icons/mdi",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\mdi.vue",
+    "chunkName": "pages/icons/mdi",
+    "_name": "_ef3c5710"
+  },
+  {
+    "name": "icons-remix___en",
+    "path": "/icons/remix",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\remix.vue",
+    "chunkName": "pages/icons/remix",
+    "_name": "_7cb8ff0f"
+  },
+  {
+    "name": "icons-weather___en",
+    "path": "/icons/weather",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\weather.vue",
+    "chunkName": "pages/icons/weather",
+    "_name": "_a4f9a28c"
+  },
+  {
+    "name": "Inventory-Inventory-list___en",
+    "path": "/Inventory/Inventory-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Inventory\\\\Inventory-list.vue",
+    "chunkName": "pages/Inventory/Inventory-list",
+    "_name": "_700148db"
+  },
+  {
+    "name": "maps-google___en",
+    "path": "/maps/google",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_7ed72f20"
+  },
+  {
+    "name": "PurchaseOrders-data___en",
+    "path": "/PurchaseOrders/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\data.js",
+    "chunkName": "pages/PurchaseOrders/data",
+    "_name": "_33fd505f"
+  },
+  {
+    "name": "PurchaseOrders-order-detail___en",
+    "path": "/PurchaseOrders/order-detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\order-detail.vue",
+    "chunkName": "pages/PurchaseOrders/order-detail",
+    "_name": "_6e218036"
+  },
+  {
+    "name": "PurchaseOrders-order-list___en",
+    "path": "/PurchaseOrders/order-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\order-list.vue",
+    "chunkName": "pages/PurchaseOrders/order-list",
+    "_name": "_48dc3943"
+  },
+  {
+    "name": "PurchaseOrders-Purchase-create___en",
+    "path": "/PurchaseOrders/Purchase-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\Purchase-create.vue",
+    "chunkName": "pages/PurchaseOrders/Purchase-create",
+    "_name": "_1a6c45dc"
+  },
+  {
+    "name": "SalesOrder-pallet___en",
+    "path": "/SalesOrder/pallet",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\pallet.vue",
+    "chunkName": "pages/SalesOrder/pallet",
+    "_name": "_dcc539fc"
+  },
+  {
+    "name": "SalesOrder-Sales-create___en",
+    "path": "/SalesOrder/Sales-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\Sales-create.vue",
+    "chunkName": "pages/SalesOrder/Sales-create",
+    "_name": "_63d0d65f"
+  },
+  {
+    "name": "SalesOrder-Sales-list___en",
+    "path": "/SalesOrder/Sales-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\Sales-list.vue",
+    "chunkName": "pages/SalesOrder/Sales-list",
+    "_name": "_0d5e087e"
+  },
+  {
+    "name": "tables-advanced___en",
+    "path": "/tables/advanced",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\advanced\\\\index.vue",
+    "chunkName": "pages/tables/advanced/index",
+    "_name": "_807e798a"
+  },
+  {
+    "name": "tables-basic___en",
+    "path": "/tables/basic",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\basic.vue",
+    "chunkName": "pages/tables/basic",
+    "_name": "_fe003d8e"
+  },
+  {
+    "name": "task-detail___en",
+    "path": "/task/detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\detail.vue",
+    "chunkName": "pages/task/detail",
+    "_name": "_3ace9076"
+  },
+  {
+    "name": "task-kanban___en",
+    "path": "/task/kanban",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\kanban\\\\index.vue",
+    "chunkName": "pages/task/kanban/index",
+    "_name": "_3f2e70a6"
+  },
+  {
+    "name": "task-list___en",
+    "path": "/task/list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\list.vue",
+    "chunkName": "pages/task/list",
+    "_name": "_dbdf4cfa"
+  },
+  {
+    "name": "ui-avatars___en",
+    "path": "/ui/avatars",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\avatars.vue",
+    "chunkName": "pages/ui/avatars",
+    "_name": "_4f5130b6"
+  },
+  {
+    "name": "ui-buttons___en",
+    "path": "/ui/buttons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\buttons.vue",
+    "chunkName": "pages/ui/buttons",
+    "_name": "_6276eb06"
+  },
+  {
+    "name": "ui-cards___en",
+    "path": "/ui/cards",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\cards.vue",
+    "chunkName": "pages/ui/cards",
+    "_name": "_354ada5f"
+  },
+  {
+    "name": "ui-carousel___en",
+    "path": "/ui/carousel",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\carousel.vue",
+    "chunkName": "pages/ui/carousel",
+    "_name": "_04e2bf94"
+  },
+  {
+    "name": "ui-dropdowns___en",
+    "path": "/ui/dropdowns",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\dropdowns.vue",
+    "chunkName": "pages/ui/dropdowns",
+    "_name": "_f4d61004"
+  },
+  {
+    "name": "ui-general___en",
+    "path": "/ui/general",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\general.vue",
+    "chunkName": "pages/ui/general",
+    "_name": "_6af9c864"
+  },
+  {
+    "name": "ui-grid___en",
+    "path": "/ui/grid",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\grid.vue",
+    "chunkName": "pages/ui/grid",
+    "_name": "_eeac970c"
+  },
+  {
+    "name": "ui-images___en",
+    "path": "/ui/images",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\images.vue",
+    "chunkName": "pages/ui/images",
+    "_name": "_74f668a8"
+  },
+  {
+    "name": "ui-list-group___en",
+    "path": "/ui/list-group",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\list-group.vue",
+    "chunkName": "pages/ui/list-group",
+    "_name": "_62371bc4"
+  },
+  {
+    "name": "ui-modals___en",
+    "path": "/ui/modals",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\modals.vue",
+    "chunkName": "pages/ui/modals",
+    "_name": "_753904cc"
+  },
+  {
+    "name": "ui-notifications___en",
+    "path": "/ui/notifications",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\notifications.vue",
+    "chunkName": "pages/ui/notifications",
+    "_name": "_056e1964"
+  },
+  {
+    "name": "ui-portlets___en",
+    "path": "/ui/portlets",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\portlets.vue",
+    "chunkName": "pages/ui/portlets",
+    "_name": "_01399b6d"
+  },
+  {
+    "name": "ui-progress___en",
+    "path": "/ui/progress",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\progress.vue",
+    "chunkName": "pages/ui/progress",
+    "_name": "_6db81c3e"
+  },
+  {
+    "name": "ui-ribbons___en",
+    "path": "/ui/ribbons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\ribbons.vue",
+    "chunkName": "pages/ui/ribbons",
+    "_name": "_220d194e"
+  },
+  {
+    "name": "ui-spinners___en",
+    "path": "/ui/spinners",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\spinners.vue",
+    "chunkName": "pages/ui/spinners",
+    "_name": "_695c52ae"
+  },
+  {
+    "name": "ui-tabs-accordions___en",
+    "path": "/ui/tabs-accordions",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\tabs-accordions.vue",
+    "chunkName": "pages/ui/tabs-accordions",
+    "_name": "_77c67456"
+  },
+  {
+    "name": "ui-tooltips-popovers___en",
+    "path": "/ui/tooltips-popovers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\tooltips-popovers.vue",
+    "chunkName": "pages/ui/tooltips-popovers",
+    "_name": "_69f20872"
+  },
+  {
+    "name": "ui-typography___en",
+    "path": "/ui/typography",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\typography.vue",
+    "chunkName": "pages/ui/typography",
+    "_name": "_4a9fdce3"
+  },
+  {
+    "name": "ui-video___en",
+    "path": "/ui/video",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\video.vue",
+    "chunkName": "pages/ui/video",
+    "_name": "_db648912"
+  },
+  {
+    "name": "widgets-data___en",
+    "path": "/widgets/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\widgets\\\\data.js",
+    "chunkName": "pages/widgets/data",
+    "_name": "_3d3f1d74"
+  },
+  {
+    "name": "apps-calendar-data-calendar___en",
+    "path": "/apps/calendar/data-calendar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\calendar\\\\data-calendar.js",
+    "chunkName": "pages/apps/calendar/data-calendar",
+    "_name": "_a72ee1e4"
+  },
+  {
+    "name": "apps-chat-data___en",
+    "path": "/apps/chat/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\chat\\\\data.js",
+    "chunkName": "pages/apps/chat/data",
+    "_name": "_03c08c7b"
+  },
+  {
+    "name": "apps-Companies-data___en",
+    "path": "/apps/Companies/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\Companies\\\\data.js",
+    "chunkName": "pages/apps/Companies/data",
+    "_name": "_036766a8"
+  },
+  {
+    "name": "account-forgot-password___ar",
+    "path": "/ar/account/forgot-password",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_0f022b18"
+  },
+  {
+    "name": "account-login___ar",
+    "path": "/ar/account/login",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_701e843c"
+  },
+  {
+    "name": "account-register___ar",
+    "path": "/ar/account/register",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_2d8f5b20"
+  },
+  {
+    "name": "AccountManagement-accountConfig___ar",
+    "path": "/ar/AccountManagement/accountConfig",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\AccountManagement\\\\accountConfig.vue",
+    "chunkName": "pages/AccountManagement/accountConfig",
+    "_name": "_7e9f3882"
+  },
+  {
+    "name": "apps-calendar___ar",
+    "path": "/ar/apps/calendar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\calendar\\\\index.vue",
+    "chunkName": "pages/apps/calendar/index",
+    "_name": "_282012b2"
+  },
+  {
+    "name": "apps-chat___ar",
+    "path": "/ar/apps/chat",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\chat\\\\index.vue",
+    "chunkName": "pages/apps/chat/index",
+    "_name": "_0407cd50"
+  },
+  {
+    "name": "apps-Companies___ar",
+    "path": "/ar/apps/Companies",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\Companies\\\\index.vue",
+    "chunkName": "pages/apps/Companies/index",
+    "_name": "_f6cedd6e"
+  },
+  {
+    "name": "apps-file-manager___ar",
+    "path": "/ar/apps/file-manager",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\file-manager.vue",
+    "chunkName": "pages/apps/file-manager",
+    "_name": "_6793bcee"
+  },
+  {
+    "name": "charts-apex___ar",
+    "path": "/ar/charts/apex",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\apex\\\\index.vue",
+    "chunkName": "pages/charts/apex/index",
+    "_name": "_12774bcb"
+  },
+  {
+    "name": "charts-c3___ar",
+    "path": "/ar/charts/c3",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\c3\\\\index.vue",
+    "chunkName": "pages/charts/c3/index",
+    "_name": "_8bc1ae86"
+  },
+  {
+    "name": "charts-chartist___ar",
+    "path": "/ar/charts/chartist",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\index.vue",
+    "chunkName": "pages/charts/chartist/index",
+    "_name": "_9beca57e"
+  },
+  {
+    "name": "charts-chartjs___ar",
+    "path": "/ar/charts/chartjs",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\index.vue",
+    "chunkName": "pages/charts/chartjs/index",
+    "_name": "_0372c0c0"
+  },
+  {
+    "name": "charts-knob___ar",
+    "path": "/ar/charts/knob",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\knob.vue",
+    "chunkName": "pages/charts/knob",
+    "_name": "_a7db17aa"
+  },
+  {
+    "name": "contacts-list___ar",
+    "path": "/ar/contacts/list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\contacts\\\\list.vue",
+    "chunkName": "pages/contacts/list",
+    "_name": "_a2b7525e"
+  },
+  {
+    "name": "contacts-profile___ar",
+    "path": "/ar/contacts/profile",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\contacts\\\\profile.vue",
+    "chunkName": "pages/contacts/profile",
+    "_name": "_501f0346"
+  },
+  {
+    "name": "Customers-data___ar",
+    "path": "/ar/Customers/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Customers\\\\data.js",
+    "chunkName": "pages/Customers/data",
+    "_name": "_58949880"
+  },
+  {
+    "name": "dashboard-analytics___ar",
+    "path": "/ar/dashboard/analytics",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\index.vue",
+    "chunkName": "pages/dashboard/analytics/index",
+    "_name": "_10e43530"
+  },
+  {
+    "name": "dashboard-crm___ar",
+    "path": "/ar/dashboard/crm",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\crm\\\\index.vue",
+    "chunkName": "pages/dashboard/crm/index",
+    "_name": "_0038fe50"
+  },
+  {
+    "name": "dashboard-sales___ar",
+    "path": "/ar/dashboard/sales",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\sales\\\\index.vue",
+    "chunkName": "pages/dashboard/sales/index",
+    "_name": "_18ccc42c"
+  },
+  {
+    "name": "ecommerce-cart___ar",
+    "path": "/ar/ecommerce/cart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\cart.vue",
+    "chunkName": "pages/ecommerce/cart",
+    "_name": "_2291cdf0"
+  },
+  {
+    "name": "ecommerce-checkout___ar",
+    "path": "/ar/ecommerce/checkout",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\checkout.vue",
+    "chunkName": "pages/ecommerce/checkout",
+    "_name": "_2d4b7dd4"
+  },
+  {
+    "name": "ecommerce-data-products___ar",
+    "path": "/ar/ecommerce/data-products",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\data-products.js",
+    "chunkName": "pages/ecommerce/data-products",
+    "_name": "_ccadeeb0"
+  },
+  {
+    "name": "ecommerce-order-detail___ar",
+    "path": "/ar/ecommerce/order-detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\order-detail.vue",
+    "chunkName": "pages/ecommerce/order-detail",
+    "_name": "_38c99a80"
+  },
+  {
+    "name": "ecommerce-orders___ar",
+    "path": "/ar/ecommerce/orders",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\orders\\\\index.vue",
+    "chunkName": "pages/ecommerce/orders/index",
+    "_name": "_d77c3ca6"
+  },
+  {
+    "name": "ecommerce-product-create___ar",
+    "path": "/ar/ecommerce/product-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\product-create.vue",
+    "chunkName": "pages/ecommerce/product-create",
+    "_name": "_57bd436a"
+  },
+  {
+    "name": "ecommerce-products___ar",
+    "path": "/ar/ecommerce/products",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products\\\\index.vue",
+    "chunkName": "pages/ecommerce/products/index",
+    "_name": "_1205a864"
+  },
+  {
+    "name": "ecommerce-products-grid___ar",
+    "path": "/ar/ecommerce/products-grid",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products-grid.vue",
+    "chunkName": "pages/ecommerce/products-grid",
+    "_name": "_6b12bbef"
+  },
+  {
+    "name": "ecommerce-sellers___ar",
+    "path": "/ar/ecommerce/sellers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\sellers.vue",
+    "chunkName": "pages/ecommerce/sellers",
+    "_name": "_baade398"
+  },
+  {
+    "name": "ecommerce-Variant-product-create___ar",
+    "path": "/ar/ecommerce/Variant-product-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\Variant-product-create.vue",
+    "chunkName": "pages/ecommerce/Variant-product-create",
+    "_name": "_805cb45c"
+  },
+  {
+    "name": "email-data-inbox___ar",
+    "path": "/ar/email/data-inbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\data-inbox.js",
+    "chunkName": "pages/email/data-inbox",
+    "_name": "_56d01260"
+  },
+  {
+    "name": "email-inbox___ar",
+    "path": "/ar/email/inbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\inbox.vue",
+    "chunkName": "pages/email/inbox",
+    "_name": "_7553360a"
+  },
+  {
+    "name": "email-sidepanel___ar",
+    "path": "/ar/email/sidepanel",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\sidepanel.vue",
+    "chunkName": "pages/email/sidepanel",
+    "_name": "_b6cee5de"
+  },
+  {
+    "name": "email-templates___ar",
+    "path": "/ar/email/templates",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\templates.vue",
+    "chunkName": "pages/email/templates",
+    "_name": "_1c3d6f3d"
+  },
+  {
+    "name": "email-toolbar___ar",
+    "path": "/ar/email/toolbar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\toolbar.vue",
+    "chunkName": "pages/email/toolbar",
+    "_name": "_3b925d02"
+  },
+  {
+    "name": "extras-404___ar",
+    "path": "/ar/extras/404",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\404.vue",
+    "chunkName": "pages/extras/404",
+    "_name": "_99712076"
+  },
+  {
+    "name": "extras-404-alt___ar",
+    "path": "/ar/extras/404-alt",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\404-alt.vue",
+    "chunkName": "pages/extras/404-alt",
+    "_name": "_119a71a1"
+  },
+  {
+    "name": "extras-500___ar",
+    "path": "/ar/extras/500",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\500.vue",
+    "chunkName": "pages/extras/500",
+    "_name": "_301565fc"
+  },
+  {
+    "name": "extras-coming-soon___ar",
+    "path": "/ar/extras/coming-soon",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\coming-soon.vue",
+    "chunkName": "pages/extras/coming-soon",
+    "_name": "_22740ed4"
+  },
+  {
+    "name": "extras-faqs___ar",
+    "path": "/ar/extras/faqs",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\faqs.vue",
+    "chunkName": "pages/extras/faqs",
+    "_name": "_e9143a40"
+  },
+  {
+    "name": "extras-invoice___ar",
+    "path": "/ar/extras/invoice",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\invoice.vue",
+    "chunkName": "pages/extras/invoice",
+    "_name": "_b11c368c"
+  },
+  {
+    "name": "extras-lightbox___ar",
+    "path": "/ar/extras/lightbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\lightbox.vue",
+    "chunkName": "pages/extras/lightbox",
+    "_name": "_6e04ba38"
+  },
+  {
+    "name": "extras-maintenance___ar",
+    "path": "/ar/extras/maintenance",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\maintenance.vue",
+    "chunkName": "pages/extras/maintenance",
+    "_name": "_59c66f20"
+  },
+  {
+    "name": "extras-pricing___ar",
+    "path": "/ar/extras/pricing",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\pricing.vue",
+    "chunkName": "pages/extras/pricing",
+    "_name": "_37b24cd3"
+  },
+  {
+    "name": "extras-search-results___ar",
+    "path": "/ar/extras/search-results",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\search-results.vue",
+    "chunkName": "pages/extras/search-results",
+    "_name": "_26bcd3d4"
+  },
+  {
+    "name": "extras-sitemap___ar",
+    "path": "/ar/extras/sitemap",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\sitemap.vue",
+    "chunkName": "pages/extras/sitemap",
+    "_name": "_4c674a42"
+  },
+  {
+    "name": "extras-starter___ar",
+    "path": "/ar/extras/starter",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\starter.vue",
+    "chunkName": "pages/extras/starter",
+    "_name": "_ebb53dc8"
+  },
+  {
+    "name": "extras-timeline___ar",
+    "path": "/ar/extras/timeline",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\timeline.vue",
+    "chunkName": "pages/extras/timeline",
+    "_name": "_4e0240f8"
+  },
+  {
+    "name": "Finance-BalanceTransaction___ar",
+    "path": "/ar/Finance/BalanceTransaction",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\BalanceTransaction.vue",
+    "chunkName": "pages/Finance/BalanceTransaction",
+    "_name": "_73b4d7cc"
+  },
+  {
+    "name": "Finance-CompanyFile___ar",
+    "path": "/ar/Finance/CompanyFile",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\CompanyFile.vue",
+    "chunkName": "pages/Finance/CompanyFile",
+    "_name": "_35c06a1f"
+  },
+  {
+    "name": "Finance-Invoices___ar",
+    "path": "/ar/Finance/Invoices",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Invoices.vue",
+    "chunkName": "pages/Finance/Invoices",
+    "_name": "_6c42ecd0"
+  },
+  {
+    "name": "Finance-Payments___ar",
+    "path": "/ar/Finance/Payments",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Payments.vue",
+    "chunkName": "pages/Finance/Payments",
+    "_name": "_f26544d2"
+  },
+  {
+    "name": "forms-advanced___ar",
+    "path": "/ar/forms/advanced",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\advanced.vue",
+    "chunkName": "pages/forms/advanced",
+    "_name": "_c3da5cbe"
+  },
+  {
+    "name": "forms-elements___ar",
+    "path": "/ar/forms/elements",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements",
+    "_name": "_508c9014"
+  },
+  {
+    "name": "forms-file-uploads___ar",
+    "path": "/ar/forms/file-uploads",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\file-uploads.vue",
+    "chunkName": "pages/forms/file-uploads",
+    "_name": "_720bc5c0"
+  },
+  {
+    "name": "forms-mask___ar",
+    "path": "/ar/forms/mask",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\mask.vue",
+    "chunkName": "pages/forms/mask",
+    "_name": "_461c06eb"
+  },
+  {
+    "name": "forms-quill___ar",
+    "path": "/ar/forms/quill",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\quill.vue",
+    "chunkName": "pages/forms/quill",
+    "_name": "_3fe4ced4"
+  },
+  {
+    "name": "forms-validation___ar",
+    "path": "/ar/forms/validation",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation",
+    "_name": "_542650b8"
+  },
+  {
+    "name": "forms-wizard___ar",
+    "path": "/ar/forms/wizard",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\wizard.vue",
+    "chunkName": "pages/forms/wizard",
+    "_name": "_d5649fac"
+  },
+  {
+    "name": "icons-boxicons___ar",
+    "path": "/ar/icons/boxicons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\boxicons.vue",
+    "chunkName": "pages/icons/boxicons",
+    "_name": "_674fb24e"
+  },
+  {
+    "name": "icons-data-fontawesome___ar",
+    "path": "/ar/icons/data-fontawesome",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-fontawesome.js",
+    "chunkName": "pages/icons/data-fontawesome",
+    "_name": "_665b14f4"
+  },
+  {
+    "name": "icons-data-material___ar",
+    "path": "/ar/icons/data-material",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-material.js",
+    "chunkName": "pages/icons/data-material",
+    "_name": "_a42bdf42"
+  },
+  {
+    "name": "icons-data-remix___ar",
+    "path": "/ar/icons/data-remix",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-remix.js",
+    "chunkName": "pages/icons/data-remix",
+    "_name": "_483b9f7f"
+  },
+  {
+    "name": "icons-feather___ar",
+    "path": "/ar/icons/feather",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\feather.vue",
+    "chunkName": "pages/icons/feather",
+    "_name": "_6b59602e"
+  },
+  {
+    "name": "icons-font-awesome___ar",
+    "path": "/ar/icons/font-awesome",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\font-awesome.vue",
+    "chunkName": "pages/icons/font-awesome",
+    "_name": "_2db7978f"
+  },
+  {
+    "name": "icons-mdi___ar",
+    "path": "/ar/icons/mdi",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\mdi.vue",
+    "chunkName": "pages/icons/mdi",
+    "_name": "_ef3c5710"
+  },
+  {
+    "name": "icons-remix___ar",
+    "path": "/ar/icons/remix",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\remix.vue",
+    "chunkName": "pages/icons/remix",
+    "_name": "_7cb8ff0f"
+  },
+  {
+    "name": "icons-weather___ar",
+    "path": "/ar/icons/weather",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\weather.vue",
+    "chunkName": "pages/icons/weather",
+    "_name": "_a4f9a28c"
+  },
+  {
+    "name": "Inventory-Inventory-list___ar",
+    "path": "/ar/Inventory/Inventory-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Inventory\\\\Inventory-list.vue",
+    "chunkName": "pages/Inventory/Inventory-list",
+    "_name": "_700148db"
+  },
+  {
+    "name": "maps-google___ar",
+    "path": "/ar/maps/google",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_7ed72f20"
+  },
+  {
+    "name": "PurchaseOrders-data___ar",
+    "path": "/ar/PurchaseOrders/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\data.js",
+    "chunkName": "pages/PurchaseOrders/data",
+    "_name": "_33fd505f"
+  },
+  {
+    "name": "PurchaseOrders-order-detail___ar",
+    "path": "/ar/PurchaseOrders/order-detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\order-detail.vue",
+    "chunkName": "pages/PurchaseOrders/order-detail",
+    "_name": "_6e218036"
+  },
+  {
+    "name": "PurchaseOrders-order-list___ar",
+    "path": "/ar/PurchaseOrders/order-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\order-list.vue",
+    "chunkName": "pages/PurchaseOrders/order-list",
+    "_name": "_48dc3943"
+  },
+  {
+    "name": "PurchaseOrders-Purchase-create___ar",
+    "path": "/ar/PurchaseOrders/Purchase-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\Purchase-create.vue",
+    "chunkName": "pages/PurchaseOrders/Purchase-create",
+    "_name": "_1a6c45dc"
+  },
+  {
+    "name": "SalesOrder-pallet___ar",
+    "path": "/ar/SalesOrder/pallet",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\pallet.vue",
+    "chunkName": "pages/SalesOrder/pallet",
+    "_name": "_dcc539fc"
+  },
+  {
+    "name": "SalesOrder-Sales-create___ar",
+    "path": "/ar/SalesOrder/Sales-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\Sales-create.vue",
+    "chunkName": "pages/SalesOrder/Sales-create",
+    "_name": "_63d0d65f"
+  },
+  {
+    "name": "SalesOrder-Sales-list___ar",
+    "path": "/ar/SalesOrder/Sales-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\Sales-list.vue",
+    "chunkName": "pages/SalesOrder/Sales-list",
+    "_name": "_0d5e087e"
+  },
+  {
+    "name": "tables-advanced___ar",
+    "path": "/ar/tables/advanced",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\advanced\\\\index.vue",
+    "chunkName": "pages/tables/advanced/index",
+    "_name": "_807e798a"
+  },
+  {
+    "name": "tables-basic___ar",
+    "path": "/ar/tables/basic",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\basic.vue",
+    "chunkName": "pages/tables/basic",
+    "_name": "_fe003d8e"
+  },
+  {
+    "name": "task-detail___ar",
+    "path": "/ar/task/detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\detail.vue",
+    "chunkName": "pages/task/detail",
+    "_name": "_3ace9076"
+  },
+  {
+    "name": "task-kanban___ar",
+    "path": "/ar/task/kanban",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\kanban\\\\index.vue",
+    "chunkName": "pages/task/kanban/index",
+    "_name": "_3f2e70a6"
+  },
+  {
+    "name": "task-list___ar",
+    "path": "/ar/task/list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\list.vue",
+    "chunkName": "pages/task/list",
+    "_name": "_dbdf4cfa"
+  },
+  {
+    "name": "ui-avatars___ar",
+    "path": "/ar/ui/avatars",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\avatars.vue",
+    "chunkName": "pages/ui/avatars",
+    "_name": "_4f5130b6"
+  },
+  {
+    "name": "ui-buttons___ar",
+    "path": "/ar/ui/buttons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\buttons.vue",
+    "chunkName": "pages/ui/buttons",
+    "_name": "_6276eb06"
+  },
+  {
+    "name": "ui-cards___ar",
+    "path": "/ar/ui/cards",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\cards.vue",
+    "chunkName": "pages/ui/cards",
+    "_name": "_354ada5f"
+  },
+  {
+    "name": "ui-carousel___ar",
+    "path": "/ar/ui/carousel",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\carousel.vue",
+    "chunkName": "pages/ui/carousel",
+    "_name": "_04e2bf94"
+  },
+  {
+    "name": "ui-dropdowns___ar",
+    "path": "/ar/ui/dropdowns",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\dropdowns.vue",
+    "chunkName": "pages/ui/dropdowns",
+    "_name": "_f4d61004"
+  },
+  {
+    "name": "ui-general___ar",
+    "path": "/ar/ui/general",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\general.vue",
+    "chunkName": "pages/ui/general",
+    "_name": "_6af9c864"
+  },
+  {
+    "name": "ui-grid___ar",
+    "path": "/ar/ui/grid",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\grid.vue",
+    "chunkName": "pages/ui/grid",
+    "_name": "_eeac970c"
+  },
+  {
+    "name": "ui-images___ar",
+    "path": "/ar/ui/images",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\images.vue",
+    "chunkName": "pages/ui/images",
+    "_name": "_74f668a8"
+  },
+  {
+    "name": "ui-list-group___ar",
+    "path": "/ar/ui/list-group",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\list-group.vue",
+    "chunkName": "pages/ui/list-group",
+    "_name": "_62371bc4"
+  },
+  {
+    "name": "ui-modals___ar",
+    "path": "/ar/ui/modals",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\modals.vue",
+    "chunkName": "pages/ui/modals",
+    "_name": "_753904cc"
+  },
+  {
+    "name": "ui-notifications___ar",
+    "path": "/ar/ui/notifications",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\notifications.vue",
+    "chunkName": "pages/ui/notifications",
+    "_name": "_056e1964"
+  },
+  {
+    "name": "ui-portlets___ar",
+    "path": "/ar/ui/portlets",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\portlets.vue",
+    "chunkName": "pages/ui/portlets",
+    "_name": "_01399b6d"
+  },
+  {
+    "name": "ui-progress___ar",
+    "path": "/ar/ui/progress",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\progress.vue",
+    "chunkName": "pages/ui/progress",
+    "_name": "_6db81c3e"
+  },
+  {
+    "name": "ui-ribbons___ar",
+    "path": "/ar/ui/ribbons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\ribbons.vue",
+    "chunkName": "pages/ui/ribbons",
+    "_name": "_220d194e"
+  },
+  {
+    "name": "ui-spinners___ar",
+    "path": "/ar/ui/spinners",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\spinners.vue",
+    "chunkName": "pages/ui/spinners",
+    "_name": "_695c52ae"
+  },
+  {
+    "name": "ui-tabs-accordions___ar",
+    "path": "/ar/ui/tabs-accordions",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\tabs-accordions.vue",
+    "chunkName": "pages/ui/tabs-accordions",
+    "_name": "_77c67456"
+  },
+  {
+    "name": "ui-tooltips-popovers___ar",
+    "path": "/ar/ui/tooltips-popovers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\tooltips-popovers.vue",
+    "chunkName": "pages/ui/tooltips-popovers",
+    "_name": "_69f20872"
+  },
+  {
+    "name": "ui-typography___ar",
+    "path": "/ar/ui/typography",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\typography.vue",
+    "chunkName": "pages/ui/typography",
+    "_name": "_4a9fdce3"
+  },
+  {
+    "name": "ui-video___ar",
+    "path": "/ar/ui/video",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\video.vue",
+    "chunkName": "pages/ui/video",
+    "_name": "_db648912"
+  },
+  {
+    "name": "widgets-data___ar",
+    "path": "/ar/widgets/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\widgets\\\\data.js",
+    "chunkName": "pages/widgets/data",
+    "_name": "_3d3f1d74"
+  },
+  {
+    "name": "charts-apex-data___en",
+    "path": "/charts/apex/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\apex\\\\data.js",
+    "chunkName": "pages/charts/apex/data",
+    "_name": "_6b8880a4"
+  },
+  {
+    "name": "charts-c3-data___en",
+    "path": "/charts/c3/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\c3\\\\data.js",
+    "chunkName": "pages/charts/c3/data",
+    "_name": "_508b9dc0"
+  },
+  {
+    "name": "charts-chartist-data___en",
+    "path": "/charts/chartist/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\data.js",
+    "chunkName": "pages/charts/chartist/data",
+    "_name": "_6ac406a4"
+  },
+  {
+    "name": "charts-chartjs-BarChart___en",
+    "path": "/charts/chartjs/BarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\BarChart.vue",
+    "chunkName": "pages/charts/chartjs/BarChart",
+    "_name": "_3aff02ad"
+  },
+  {
+    "name": "charts-chartjs-DonutChart___en",
+    "path": "/charts/chartjs/DonutChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\DonutChart.vue",
+    "chunkName": "pages/charts/chartjs/DonutChart",
+    "_name": "_712a5404"
+  },
+  {
+    "name": "charts-chartjs-LineChart___en",
+    "path": "/charts/chartjs/LineChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\LineChart.vue",
+    "chunkName": "pages/charts/chartjs/LineChart",
+    "_name": "_8ff57dd0"
+  },
+  {
+    "name": "charts-chartjs-PieChart___en",
+    "path": "/charts/chartjs/PieChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PieChart.vue",
+    "chunkName": "pages/charts/chartjs/PieChart",
+    "_name": "_33be3558"
+  },
+  {
+    "name": "charts-chartjs-PolarChart___en",
+    "path": "/charts/chartjs/PolarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PolarChart.vue",
+    "chunkName": "pages/charts/chartjs/PolarChart",
+    "_name": "_7807b53c"
+  },
+  {
+    "name": "charts-chartjs-RadarChart___en",
+    "path": "/charts/chartjs/RadarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\RadarChart.vue",
+    "chunkName": "pages/charts/chartjs/RadarChart",
+    "_name": "_3f00329a"
+  },
+  {
+    "name": "dashboard-analytics-channels___en",
+    "path": "/dashboard/analytics/channels",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\channels.vue",
+    "chunkName": "pages/dashboard/analytics/channels",
+    "_name": "_cf93c43c"
+  },
+  {
+    "name": "dashboard-analytics-overview___en",
+    "path": "/dashboard/analytics/overview",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\overview.vue",
+    "chunkName": "pages/dashboard/analytics/overview",
+    "_name": "_422beb0b"
+  },
+  {
+    "name": "dashboard-analytics-social-media___en",
+    "path": "/dashboard/analytics/social-media",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\social-media.vue",
+    "chunkName": "pages/dashboard/analytics/social-media",
+    "_name": "_76bd4896"
+  },
+  {
+    "name": "dashboard-analytics-sources___en",
+    "path": "/dashboard/analytics/sources",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\sources.vue",
+    "chunkName": "pages/dashboard/analytics/sources",
+    "_name": "_538c2b96"
+  },
+  {
+    "name": "dashboard-analytics-users___en",
+    "path": "/dashboard/analytics/users",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\users.vue",
+    "chunkName": "pages/dashboard/analytics/users",
+    "_name": "_564e0f66"
+  },
+  {
+    "name": "ecommerce-orders-data___en",
+    "path": "/ecommerce/orders/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\orders\\\\data.js",
+    "chunkName": "pages/ecommerce/orders/data",
+    "_name": "_58166610"
+  },
+  {
+    "name": "ecommerce-products-data___en",
+    "path": "/ecommerce/products/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products\\\\data.js",
+    "chunkName": "pages/ecommerce/products/data",
+    "_name": "_3bafc471"
+  },
+  {
+    "name": "account-forgot-password___es",
+    "path": "/es/account/forgot-password",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_0f022b18"
+  },
+  {
+    "name": "account-login___es",
+    "path": "/es/account/login",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_701e843c"
+  },
+  {
+    "name": "account-register___es",
+    "path": "/es/account/register",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_2d8f5b20"
+  },
+  {
+    "name": "AccountManagement-accountConfig___es",
+    "path": "/es/AccountManagement/accountConfig",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\AccountManagement\\\\accountConfig.vue",
+    "chunkName": "pages/AccountManagement/accountConfig",
+    "_name": "_7e9f3882"
+  },
+  {
+    "name": "apps-calendar___es",
+    "path": "/es/apps/calendar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\calendar\\\\index.vue",
+    "chunkName": "pages/apps/calendar/index",
+    "_name": "_282012b2"
+  },
+  {
+    "name": "apps-chat___es",
+    "path": "/es/apps/chat",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\chat\\\\index.vue",
+    "chunkName": "pages/apps/chat/index",
+    "_name": "_0407cd50"
+  },
+  {
+    "name": "apps-Companies___es",
+    "path": "/es/apps/Companies",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\Companies\\\\index.vue",
+    "chunkName": "pages/apps/Companies/index",
+    "_name": "_f6cedd6e"
+  },
+  {
+    "name": "apps-file-manager___es",
+    "path": "/es/apps/file-manager",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\file-manager.vue",
+    "chunkName": "pages/apps/file-manager",
+    "_name": "_6793bcee"
+  },
+  {
+    "name": "charts-apex___es",
+    "path": "/es/charts/apex",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\apex\\\\index.vue",
+    "chunkName": "pages/charts/apex/index",
+    "_name": "_12774bcb"
+  },
+  {
+    "name": "charts-c3___es",
+    "path": "/es/charts/c3",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\c3\\\\index.vue",
+    "chunkName": "pages/charts/c3/index",
+    "_name": "_8bc1ae86"
+  },
+  {
+    "name": "charts-chartist___es",
+    "path": "/es/charts/chartist",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\index.vue",
+    "chunkName": "pages/charts/chartist/index",
+    "_name": "_9beca57e"
+  },
+  {
+    "name": "charts-chartjs___es",
+    "path": "/es/charts/chartjs",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\index.vue",
+    "chunkName": "pages/charts/chartjs/index",
+    "_name": "_0372c0c0"
+  },
+  {
+    "name": "charts-knob___es",
+    "path": "/es/charts/knob",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\knob.vue",
+    "chunkName": "pages/charts/knob",
+    "_name": "_a7db17aa"
+  },
+  {
+    "name": "contacts-list___es",
+    "path": "/es/contacts/list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\contacts\\\\list.vue",
+    "chunkName": "pages/contacts/list",
+    "_name": "_a2b7525e"
+  },
+  {
+    "name": "contacts-profile___es",
+    "path": "/es/contacts/profile",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\contacts\\\\profile.vue",
+    "chunkName": "pages/contacts/profile",
+    "_name": "_501f0346"
+  },
+  {
+    "name": "Customers-data___es",
+    "path": "/es/Customers/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Customers\\\\data.js",
+    "chunkName": "pages/Customers/data",
+    "_name": "_58949880"
+  },
+  {
+    "name": "dashboard-analytics___es",
+    "path": "/es/dashboard/analytics",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\index.vue",
+    "chunkName": "pages/dashboard/analytics/index",
+    "_name": "_10e43530"
+  },
+  {
+    "name": "dashboard-crm___es",
+    "path": "/es/dashboard/crm",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\crm\\\\index.vue",
+    "chunkName": "pages/dashboard/crm/index",
+    "_name": "_0038fe50"
+  },
+  {
+    "name": "dashboard-sales___es",
+    "path": "/es/dashboard/sales",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\sales\\\\index.vue",
+    "chunkName": "pages/dashboard/sales/index",
+    "_name": "_18ccc42c"
+  },
+  {
+    "name": "ecommerce-cart___es",
+    "path": "/es/ecommerce/cart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\cart.vue",
+    "chunkName": "pages/ecommerce/cart",
+    "_name": "_2291cdf0"
+  },
+  {
+    "name": "ecommerce-checkout___es",
+    "path": "/es/ecommerce/checkout",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\checkout.vue",
+    "chunkName": "pages/ecommerce/checkout",
+    "_name": "_2d4b7dd4"
+  },
+  {
+    "name": "ecommerce-data-products___es",
+    "path": "/es/ecommerce/data-products",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\data-products.js",
+    "chunkName": "pages/ecommerce/data-products",
+    "_name": "_ccadeeb0"
+  },
+  {
+    "name": "ecommerce-order-detail___es",
+    "path": "/es/ecommerce/order-detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\order-detail.vue",
+    "chunkName": "pages/ecommerce/order-detail",
+    "_name": "_38c99a80"
+  },
+  {
+    "name": "ecommerce-orders___es",
+    "path": "/es/ecommerce/orders",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\orders\\\\index.vue",
+    "chunkName": "pages/ecommerce/orders/index",
+    "_name": "_d77c3ca6"
+  },
+  {
+    "name": "ecommerce-product-create___es",
+    "path": "/es/ecommerce/product-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\product-create.vue",
+    "chunkName": "pages/ecommerce/product-create",
+    "_name": "_57bd436a"
+  },
+  {
+    "name": "ecommerce-products___es",
+    "path": "/es/ecommerce/products",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products\\\\index.vue",
+    "chunkName": "pages/ecommerce/products/index",
+    "_name": "_1205a864"
+  },
+  {
+    "name": "ecommerce-products-grid___es",
+    "path": "/es/ecommerce/products-grid",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products-grid.vue",
+    "chunkName": "pages/ecommerce/products-grid",
+    "_name": "_6b12bbef"
+  },
+  {
+    "name": "ecommerce-sellers___es",
+    "path": "/es/ecommerce/sellers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\sellers.vue",
+    "chunkName": "pages/ecommerce/sellers",
+    "_name": "_baade398"
+  },
+  {
+    "name": "ecommerce-Variant-product-create___es",
+    "path": "/es/ecommerce/Variant-product-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\Variant-product-create.vue",
+    "chunkName": "pages/ecommerce/Variant-product-create",
+    "_name": "_805cb45c"
+  },
+  {
+    "name": "email-data-inbox___es",
+    "path": "/es/email/data-inbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\data-inbox.js",
+    "chunkName": "pages/email/data-inbox",
+    "_name": "_56d01260"
+  },
+  {
+    "name": "email-inbox___es",
+    "path": "/es/email/inbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\inbox.vue",
+    "chunkName": "pages/email/inbox",
+    "_name": "_7553360a"
+  },
+  {
+    "name": "email-sidepanel___es",
+    "path": "/es/email/sidepanel",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\sidepanel.vue",
+    "chunkName": "pages/email/sidepanel",
+    "_name": "_b6cee5de"
+  },
+  {
+    "name": "email-templates___es",
+    "path": "/es/email/templates",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\templates.vue",
+    "chunkName": "pages/email/templates",
+    "_name": "_1c3d6f3d"
+  },
+  {
+    "name": "email-toolbar___es",
+    "path": "/es/email/toolbar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\toolbar.vue",
+    "chunkName": "pages/email/toolbar",
+    "_name": "_3b925d02"
+  },
+  {
+    "name": "extras-404___es",
+    "path": "/es/extras/404",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\404.vue",
+    "chunkName": "pages/extras/404",
+    "_name": "_99712076"
+  },
+  {
+    "name": "extras-404-alt___es",
+    "path": "/es/extras/404-alt",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\404-alt.vue",
+    "chunkName": "pages/extras/404-alt",
+    "_name": "_119a71a1"
+  },
+  {
+    "name": "extras-500___es",
+    "path": "/es/extras/500",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\500.vue",
+    "chunkName": "pages/extras/500",
+    "_name": "_301565fc"
+  },
+  {
+    "name": "extras-coming-soon___es",
+    "path": "/es/extras/coming-soon",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\coming-soon.vue",
+    "chunkName": "pages/extras/coming-soon",
+    "_name": "_22740ed4"
+  },
+  {
+    "name": "extras-faqs___es",
+    "path": "/es/extras/faqs",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\faqs.vue",
+    "chunkName": "pages/extras/faqs",
+    "_name": "_e9143a40"
+  },
+  {
+    "name": "extras-invoice___es",
+    "path": "/es/extras/invoice",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\invoice.vue",
+    "chunkName": "pages/extras/invoice",
+    "_name": "_b11c368c"
+  },
+  {
+    "name": "extras-lightbox___es",
+    "path": "/es/extras/lightbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\lightbox.vue",
+    "chunkName": "pages/extras/lightbox",
+    "_name": "_6e04ba38"
+  },
+  {
+    "name": "extras-maintenance___es",
+    "path": "/es/extras/maintenance",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\maintenance.vue",
+    "chunkName": "pages/extras/maintenance",
+    "_name": "_59c66f20"
+  },
+  {
+    "name": "extras-pricing___es",
+    "path": "/es/extras/pricing",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\pricing.vue",
+    "chunkName": "pages/extras/pricing",
+    "_name": "_37b24cd3"
+  },
+  {
+    "name": "extras-search-results___es",
+    "path": "/es/extras/search-results",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\search-results.vue",
+    "chunkName": "pages/extras/search-results",
+    "_name": "_26bcd3d4"
+  },
+  {
+    "name": "extras-sitemap___es",
+    "path": "/es/extras/sitemap",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\sitemap.vue",
+    "chunkName": "pages/extras/sitemap",
+    "_name": "_4c674a42"
+  },
+  {
+    "name": "extras-starter___es",
+    "path": "/es/extras/starter",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\starter.vue",
+    "chunkName": "pages/extras/starter",
+    "_name": "_ebb53dc8"
+  },
+  {
+    "name": "extras-timeline___es",
+    "path": "/es/extras/timeline",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\timeline.vue",
+    "chunkName": "pages/extras/timeline",
+    "_name": "_4e0240f8"
+  },
+  {
+    "name": "Finance-BalanceTransaction___es",
+    "path": "/es/Finance/BalanceTransaction",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\BalanceTransaction.vue",
+    "chunkName": "pages/Finance/BalanceTransaction",
+    "_name": "_73b4d7cc"
+  },
+  {
+    "name": "Finance-CompanyFile___es",
+    "path": "/es/Finance/CompanyFile",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\CompanyFile.vue",
+    "chunkName": "pages/Finance/CompanyFile",
+    "_name": "_35c06a1f"
+  },
+  {
+    "name": "Finance-Invoices___es",
+    "path": "/es/Finance/Invoices",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Invoices.vue",
+    "chunkName": "pages/Finance/Invoices",
+    "_name": "_6c42ecd0"
+  },
+  {
+    "name": "Finance-Payments___es",
+    "path": "/es/Finance/Payments",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Payments.vue",
+    "chunkName": "pages/Finance/Payments",
+    "_name": "_f26544d2"
+  },
+  {
+    "name": "forms-advanced___es",
+    "path": "/es/forms/advanced",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\advanced.vue",
+    "chunkName": "pages/forms/advanced",
+    "_name": "_c3da5cbe"
+  },
+  {
+    "name": "forms-elements___es",
+    "path": "/es/forms/elements",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements",
+    "_name": "_508c9014"
+  },
+  {
+    "name": "forms-file-uploads___es",
+    "path": "/es/forms/file-uploads",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\file-uploads.vue",
+    "chunkName": "pages/forms/file-uploads",
+    "_name": "_720bc5c0"
+  },
+  {
+    "name": "forms-mask___es",
+    "path": "/es/forms/mask",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\mask.vue",
+    "chunkName": "pages/forms/mask",
+    "_name": "_461c06eb"
+  },
+  {
+    "name": "forms-quill___es",
+    "path": "/es/forms/quill",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\quill.vue",
+    "chunkName": "pages/forms/quill",
+    "_name": "_3fe4ced4"
+  },
+  {
+    "name": "forms-validation___es",
+    "path": "/es/forms/validation",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation",
+    "_name": "_542650b8"
+  },
+  {
+    "name": "forms-wizard___es",
+    "path": "/es/forms/wizard",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\wizard.vue",
+    "chunkName": "pages/forms/wizard",
+    "_name": "_d5649fac"
+  },
+  {
+    "name": "icons-boxicons___es",
+    "path": "/es/icons/boxicons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\boxicons.vue",
+    "chunkName": "pages/icons/boxicons",
+    "_name": "_674fb24e"
+  },
+  {
+    "name": "icons-data-fontawesome___es",
+    "path": "/es/icons/data-fontawesome",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-fontawesome.js",
+    "chunkName": "pages/icons/data-fontawesome",
+    "_name": "_665b14f4"
+  },
+  {
+    "name": "icons-data-material___es",
+    "path": "/es/icons/data-material",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-material.js",
+    "chunkName": "pages/icons/data-material",
+    "_name": "_a42bdf42"
+  },
+  {
+    "name": "icons-data-remix___es",
+    "path": "/es/icons/data-remix",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-remix.js",
+    "chunkName": "pages/icons/data-remix",
+    "_name": "_483b9f7f"
+  },
+  {
+    "name": "icons-feather___es",
+    "path": "/es/icons/feather",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\feather.vue",
+    "chunkName": "pages/icons/feather",
+    "_name": "_6b59602e"
+  },
+  {
+    "name": "icons-font-awesome___es",
+    "path": "/es/icons/font-awesome",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\font-awesome.vue",
+    "chunkName": "pages/icons/font-awesome",
+    "_name": "_2db7978f"
+  },
+  {
+    "name": "icons-mdi___es",
+    "path": "/es/icons/mdi",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\mdi.vue",
+    "chunkName": "pages/icons/mdi",
+    "_name": "_ef3c5710"
+  },
+  {
+    "name": "icons-remix___es",
+    "path": "/es/icons/remix",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\remix.vue",
+    "chunkName": "pages/icons/remix",
+    "_name": "_7cb8ff0f"
+  },
+  {
+    "name": "icons-weather___es",
+    "path": "/es/icons/weather",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\weather.vue",
+    "chunkName": "pages/icons/weather",
+    "_name": "_a4f9a28c"
+  },
+  {
+    "name": "Inventory-Inventory-list___es",
+    "path": "/es/Inventory/Inventory-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Inventory\\\\Inventory-list.vue",
+    "chunkName": "pages/Inventory/Inventory-list",
+    "_name": "_700148db"
+  },
+  {
+    "name": "maps-google___es",
+    "path": "/es/maps/google",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_7ed72f20"
+  },
+  {
+    "name": "PurchaseOrders-data___es",
+    "path": "/es/PurchaseOrders/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\data.js",
+    "chunkName": "pages/PurchaseOrders/data",
+    "_name": "_33fd505f"
+  },
+  {
+    "name": "PurchaseOrders-order-detail___es",
+    "path": "/es/PurchaseOrders/order-detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\order-detail.vue",
+    "chunkName": "pages/PurchaseOrders/order-detail",
+    "_name": "_6e218036"
+  },
+  {
+    "name": "PurchaseOrders-order-list___es",
+    "path": "/es/PurchaseOrders/order-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\order-list.vue",
+    "chunkName": "pages/PurchaseOrders/order-list",
+    "_name": "_48dc3943"
+  },
+  {
+    "name": "PurchaseOrders-Purchase-create___es",
+    "path": "/es/PurchaseOrders/Purchase-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\Purchase-create.vue",
+    "chunkName": "pages/PurchaseOrders/Purchase-create",
+    "_name": "_1a6c45dc"
+  },
+  {
+    "name": "SalesOrder-pallet___es",
+    "path": "/es/SalesOrder/pallet",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\pallet.vue",
+    "chunkName": "pages/SalesOrder/pallet",
+    "_name": "_dcc539fc"
+  },
+  {
+    "name": "SalesOrder-Sales-create___es",
+    "path": "/es/SalesOrder/Sales-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\Sales-create.vue",
+    "chunkName": "pages/SalesOrder/Sales-create",
+    "_name": "_63d0d65f"
+  },
+  {
+    "name": "SalesOrder-Sales-list___es",
+    "path": "/es/SalesOrder/Sales-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\Sales-list.vue",
+    "chunkName": "pages/SalesOrder/Sales-list",
+    "_name": "_0d5e087e"
+  },
+  {
+    "name": "tables-advanced___es",
+    "path": "/es/tables/advanced",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\advanced\\\\index.vue",
+    "chunkName": "pages/tables/advanced/index",
+    "_name": "_807e798a"
+  },
+  {
+    "name": "tables-basic___es",
+    "path": "/es/tables/basic",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\basic.vue",
+    "chunkName": "pages/tables/basic",
+    "_name": "_fe003d8e"
+  },
+  {
+    "name": "task-detail___es",
+    "path": "/es/task/detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\detail.vue",
+    "chunkName": "pages/task/detail",
+    "_name": "_3ace9076"
+  },
+  {
+    "name": "task-kanban___es",
+    "path": "/es/task/kanban",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\kanban\\\\index.vue",
+    "chunkName": "pages/task/kanban/index",
+    "_name": "_3f2e70a6"
+  },
+  {
+    "name": "task-list___es",
+    "path": "/es/task/list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\list.vue",
+    "chunkName": "pages/task/list",
+    "_name": "_dbdf4cfa"
+  },
+  {
+    "name": "ui-avatars___es",
+    "path": "/es/ui/avatars",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\avatars.vue",
+    "chunkName": "pages/ui/avatars",
+    "_name": "_4f5130b6"
+  },
+  {
+    "name": "ui-buttons___es",
+    "path": "/es/ui/buttons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\buttons.vue",
+    "chunkName": "pages/ui/buttons",
+    "_name": "_6276eb06"
+  },
+  {
+    "name": "ui-cards___es",
+    "path": "/es/ui/cards",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\cards.vue",
+    "chunkName": "pages/ui/cards",
+    "_name": "_354ada5f"
+  },
+  {
+    "name": "ui-carousel___es",
+    "path": "/es/ui/carousel",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\carousel.vue",
+    "chunkName": "pages/ui/carousel",
+    "_name": "_04e2bf94"
+  },
+  {
+    "name": "ui-dropdowns___es",
+    "path": "/es/ui/dropdowns",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\dropdowns.vue",
+    "chunkName": "pages/ui/dropdowns",
+    "_name": "_f4d61004"
+  },
+  {
+    "name": "ui-general___es",
+    "path": "/es/ui/general",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\general.vue",
+    "chunkName": "pages/ui/general",
+    "_name": "_6af9c864"
+  },
+  {
+    "name": "ui-grid___es",
+    "path": "/es/ui/grid",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\grid.vue",
+    "chunkName": "pages/ui/grid",
+    "_name": "_eeac970c"
+  },
+  {
+    "name": "ui-images___es",
+    "path": "/es/ui/images",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\images.vue",
+    "chunkName": "pages/ui/images",
+    "_name": "_74f668a8"
+  },
+  {
+    "name": "ui-list-group___es",
+    "path": "/es/ui/list-group",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\list-group.vue",
+    "chunkName": "pages/ui/list-group",
+    "_name": "_62371bc4"
+  },
+  {
+    "name": "ui-modals___es",
+    "path": "/es/ui/modals",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\modals.vue",
+    "chunkName": "pages/ui/modals",
+    "_name": "_753904cc"
+  },
+  {
+    "name": "ui-notifications___es",
+    "path": "/es/ui/notifications",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\notifications.vue",
+    "chunkName": "pages/ui/notifications",
+    "_name": "_056e1964"
+  },
+  {
+    "name": "ui-portlets___es",
+    "path": "/es/ui/portlets",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\portlets.vue",
+    "chunkName": "pages/ui/portlets",
+    "_name": "_01399b6d"
+  },
+  {
+    "name": "ui-progress___es",
+    "path": "/es/ui/progress",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\progress.vue",
+    "chunkName": "pages/ui/progress",
+    "_name": "_6db81c3e"
+  },
+  {
+    "name": "ui-ribbons___es",
+    "path": "/es/ui/ribbons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\ribbons.vue",
+    "chunkName": "pages/ui/ribbons",
+    "_name": "_220d194e"
+  },
+  {
+    "name": "ui-spinners___es",
+    "path": "/es/ui/spinners",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\spinners.vue",
+    "chunkName": "pages/ui/spinners",
+    "_name": "_695c52ae"
+  },
+  {
+    "name": "ui-tabs-accordions___es",
+    "path": "/es/ui/tabs-accordions",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\tabs-accordions.vue",
+    "chunkName": "pages/ui/tabs-accordions",
+    "_name": "_77c67456"
+  },
+  {
+    "name": "ui-tooltips-popovers___es",
+    "path": "/es/ui/tooltips-popovers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\tooltips-popovers.vue",
+    "chunkName": "pages/ui/tooltips-popovers",
+    "_name": "_69f20872"
+  },
+  {
+    "name": "ui-typography___es",
+    "path": "/es/ui/typography",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\typography.vue",
+    "chunkName": "pages/ui/typography",
+    "_name": "_4a9fdce3"
+  },
+  {
+    "name": "ui-video___es",
+    "path": "/es/ui/video",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\video.vue",
+    "chunkName": "pages/ui/video",
+    "_name": "_db648912"
+  },
+  {
+    "name": "widgets-data___es",
+    "path": "/es/widgets/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\widgets\\\\data.js",
+    "chunkName": "pages/widgets/data",
+    "_name": "_3d3f1d74"
+  },
+  {
+    "name": "Finance-Expenses-Expense___en",
+    "path": "/Finance/Expenses/Expense",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Expenses\\\\Expense.vue",
+    "chunkName": "pages/Finance/Expenses/Expense",
+    "_name": "_1d495e03"
+  },
+  {
+    "name": "Finance-Expenses-list-Expenses___en",
+    "path": "/Finance/Expenses/list-Expenses",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Expenses\\\\list-Expenses.vue",
+    "chunkName": "pages/Finance/Expenses/list-Expenses",
+    "_name": "_757843d6"
+  },
+  {
+    "name": "account-forgot-password___fr",
+    "path": "/fr/account/forgot-password",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_0f022b18"
+  },
+  {
+    "name": "account-login___fr",
+    "path": "/fr/account/login",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_701e843c"
+  },
+  {
+    "name": "account-register___fr",
+    "path": "/fr/account/register",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_2d8f5b20"
+  },
+  {
+    "name": "AccountManagement-accountConfig___fr",
+    "path": "/fr/AccountManagement/accountConfig",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\AccountManagement\\\\accountConfig.vue",
+    "chunkName": "pages/AccountManagement/accountConfig",
+    "_name": "_7e9f3882"
+  },
+  {
+    "name": "apps-calendar___fr",
+    "path": "/fr/apps/calendar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\calendar\\\\index.vue",
+    "chunkName": "pages/apps/calendar/index",
+    "_name": "_282012b2"
+  },
+  {
+    "name": "apps-chat___fr",
+    "path": "/fr/apps/chat",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\chat\\\\index.vue",
+    "chunkName": "pages/apps/chat/index",
+    "_name": "_0407cd50"
+  },
+  {
+    "name": "apps-Companies___fr",
+    "path": "/fr/apps/Companies",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\Companies\\\\index.vue",
+    "chunkName": "pages/apps/Companies/index",
+    "_name": "_f6cedd6e"
+  },
+  {
+    "name": "apps-file-manager___fr",
+    "path": "/fr/apps/file-manager",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\file-manager.vue",
+    "chunkName": "pages/apps/file-manager",
+    "_name": "_6793bcee"
+  },
+  {
+    "name": "charts-apex___fr",
+    "path": "/fr/charts/apex",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\apex\\\\index.vue",
+    "chunkName": "pages/charts/apex/index",
+    "_name": "_12774bcb"
+  },
+  {
+    "name": "charts-c3___fr",
+    "path": "/fr/charts/c3",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\c3\\\\index.vue",
+    "chunkName": "pages/charts/c3/index",
+    "_name": "_8bc1ae86"
+  },
+  {
+    "name": "charts-chartist___fr",
+    "path": "/fr/charts/chartist",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\index.vue",
+    "chunkName": "pages/charts/chartist/index",
+    "_name": "_9beca57e"
+  },
+  {
+    "name": "charts-chartjs___fr",
+    "path": "/fr/charts/chartjs",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\index.vue",
+    "chunkName": "pages/charts/chartjs/index",
+    "_name": "_0372c0c0"
+  },
+  {
+    "name": "charts-knob___fr",
+    "path": "/fr/charts/knob",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\knob.vue",
+    "chunkName": "pages/charts/knob",
+    "_name": "_a7db17aa"
+  },
+  {
+    "name": "contacts-list___fr",
+    "path": "/fr/contacts/list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\contacts\\\\list.vue",
+    "chunkName": "pages/contacts/list",
+    "_name": "_a2b7525e"
+  },
+  {
+    "name": "contacts-profile___fr",
+    "path": "/fr/contacts/profile",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\contacts\\\\profile.vue",
+    "chunkName": "pages/contacts/profile",
+    "_name": "_501f0346"
+  },
+  {
+    "name": "Customers-data___fr",
+    "path": "/fr/Customers/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Customers\\\\data.js",
+    "chunkName": "pages/Customers/data",
+    "_name": "_58949880"
+  },
+  {
+    "name": "dashboard-analytics___fr",
+    "path": "/fr/dashboard/analytics",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\index.vue",
+    "chunkName": "pages/dashboard/analytics/index",
+    "_name": "_10e43530"
+  },
+  {
+    "name": "dashboard-crm___fr",
+    "path": "/fr/dashboard/crm",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\crm\\\\index.vue",
+    "chunkName": "pages/dashboard/crm/index",
+    "_name": "_0038fe50"
+  },
+  {
+    "name": "dashboard-sales___fr",
+    "path": "/fr/dashboard/sales",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\sales\\\\index.vue",
+    "chunkName": "pages/dashboard/sales/index",
+    "_name": "_18ccc42c"
+  },
+  {
+    "name": "ecommerce-cart___fr",
+    "path": "/fr/ecommerce/cart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\cart.vue",
+    "chunkName": "pages/ecommerce/cart",
+    "_name": "_2291cdf0"
+  },
+  {
+    "name": "ecommerce-checkout___fr",
+    "path": "/fr/ecommerce/checkout",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\checkout.vue",
+    "chunkName": "pages/ecommerce/checkout",
+    "_name": "_2d4b7dd4"
+  },
+  {
+    "name": "ecommerce-data-products___fr",
+    "path": "/fr/ecommerce/data-products",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\data-products.js",
+    "chunkName": "pages/ecommerce/data-products",
+    "_name": "_ccadeeb0"
+  },
+  {
+    "name": "ecommerce-order-detail___fr",
+    "path": "/fr/ecommerce/order-detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\order-detail.vue",
+    "chunkName": "pages/ecommerce/order-detail",
+    "_name": "_38c99a80"
+  },
+  {
+    "name": "ecommerce-orders___fr",
+    "path": "/fr/ecommerce/orders",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\orders\\\\index.vue",
+    "chunkName": "pages/ecommerce/orders/index",
+    "_name": "_d77c3ca6"
+  },
+  {
+    "name": "ecommerce-product-create___fr",
+    "path": "/fr/ecommerce/product-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\product-create.vue",
+    "chunkName": "pages/ecommerce/product-create",
+    "_name": "_57bd436a"
+  },
+  {
+    "name": "ecommerce-products___fr",
+    "path": "/fr/ecommerce/products",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products\\\\index.vue",
+    "chunkName": "pages/ecommerce/products/index",
+    "_name": "_1205a864"
+  },
+  {
+    "name": "ecommerce-products-grid___fr",
+    "path": "/fr/ecommerce/products-grid",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products-grid.vue",
+    "chunkName": "pages/ecommerce/products-grid",
+    "_name": "_6b12bbef"
+  },
+  {
+    "name": "ecommerce-sellers___fr",
+    "path": "/fr/ecommerce/sellers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\sellers.vue",
+    "chunkName": "pages/ecommerce/sellers",
+    "_name": "_baade398"
+  },
+  {
+    "name": "ecommerce-Variant-product-create___fr",
+    "path": "/fr/ecommerce/Variant-product-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\Variant-product-create.vue",
+    "chunkName": "pages/ecommerce/Variant-product-create",
+    "_name": "_805cb45c"
+  },
+  {
+    "name": "email-data-inbox___fr",
+    "path": "/fr/email/data-inbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\data-inbox.js",
+    "chunkName": "pages/email/data-inbox",
+    "_name": "_56d01260"
+  },
+  {
+    "name": "email-inbox___fr",
+    "path": "/fr/email/inbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\inbox.vue",
+    "chunkName": "pages/email/inbox",
+    "_name": "_7553360a"
+  },
+  {
+    "name": "email-sidepanel___fr",
+    "path": "/fr/email/sidepanel",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\sidepanel.vue",
+    "chunkName": "pages/email/sidepanel",
+    "_name": "_b6cee5de"
+  },
+  {
+    "name": "email-templates___fr",
+    "path": "/fr/email/templates",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\templates.vue",
+    "chunkName": "pages/email/templates",
+    "_name": "_1c3d6f3d"
+  },
+  {
+    "name": "email-toolbar___fr",
+    "path": "/fr/email/toolbar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\toolbar.vue",
+    "chunkName": "pages/email/toolbar",
+    "_name": "_3b925d02"
+  },
+  {
+    "name": "extras-404___fr",
+    "path": "/fr/extras/404",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\404.vue",
+    "chunkName": "pages/extras/404",
+    "_name": "_99712076"
+  },
+  {
+    "name": "extras-404-alt___fr",
+    "path": "/fr/extras/404-alt",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\404-alt.vue",
+    "chunkName": "pages/extras/404-alt",
+    "_name": "_119a71a1"
+  },
+  {
+    "name": "extras-500___fr",
+    "path": "/fr/extras/500",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\500.vue",
+    "chunkName": "pages/extras/500",
+    "_name": "_301565fc"
+  },
+  {
+    "name": "extras-coming-soon___fr",
+    "path": "/fr/extras/coming-soon",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\coming-soon.vue",
+    "chunkName": "pages/extras/coming-soon",
+    "_name": "_22740ed4"
+  },
+  {
+    "name": "extras-faqs___fr",
+    "path": "/fr/extras/faqs",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\faqs.vue",
+    "chunkName": "pages/extras/faqs",
+    "_name": "_e9143a40"
+  },
+  {
+    "name": "extras-invoice___fr",
+    "path": "/fr/extras/invoice",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\invoice.vue",
+    "chunkName": "pages/extras/invoice",
+    "_name": "_b11c368c"
+  },
+  {
+    "name": "extras-lightbox___fr",
+    "path": "/fr/extras/lightbox",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\lightbox.vue",
+    "chunkName": "pages/extras/lightbox",
+    "_name": "_6e04ba38"
+  },
+  {
+    "name": "extras-maintenance___fr",
+    "path": "/fr/extras/maintenance",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\maintenance.vue",
+    "chunkName": "pages/extras/maintenance",
+    "_name": "_59c66f20"
+  },
+  {
+    "name": "extras-pricing___fr",
+    "path": "/fr/extras/pricing",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\pricing.vue",
+    "chunkName": "pages/extras/pricing",
+    "_name": "_37b24cd3"
+  },
+  {
+    "name": "extras-search-results___fr",
+    "path": "/fr/extras/search-results",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\search-results.vue",
+    "chunkName": "pages/extras/search-results",
+    "_name": "_26bcd3d4"
+  },
+  {
+    "name": "extras-sitemap___fr",
+    "path": "/fr/extras/sitemap",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\sitemap.vue",
+    "chunkName": "pages/extras/sitemap",
+    "_name": "_4c674a42"
+  },
+  {
+    "name": "extras-starter___fr",
+    "path": "/fr/extras/starter",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\starter.vue",
+    "chunkName": "pages/extras/starter",
+    "_name": "_ebb53dc8"
+  },
+  {
+    "name": "extras-timeline___fr",
+    "path": "/fr/extras/timeline",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\extras\\\\timeline.vue",
+    "chunkName": "pages/extras/timeline",
+    "_name": "_4e0240f8"
+  },
+  {
+    "name": "Finance-BalanceTransaction___fr",
+    "path": "/fr/Finance/BalanceTransaction",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\BalanceTransaction.vue",
+    "chunkName": "pages/Finance/BalanceTransaction",
+    "_name": "_73b4d7cc"
+  },
+  {
+    "name": "Finance-CompanyFile___fr",
+    "path": "/fr/Finance/CompanyFile",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\CompanyFile.vue",
+    "chunkName": "pages/Finance/CompanyFile",
+    "_name": "_35c06a1f"
+  },
+  {
+    "name": "Finance-Invoices___fr",
+    "path": "/fr/Finance/Invoices",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Invoices.vue",
+    "chunkName": "pages/Finance/Invoices",
+    "_name": "_6c42ecd0"
+  },
+  {
+    "name": "Finance-Payments___fr",
+    "path": "/fr/Finance/Payments",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Payments.vue",
+    "chunkName": "pages/Finance/Payments",
+    "_name": "_f26544d2"
+  },
+  {
+    "name": "forms-advanced___fr",
+    "path": "/fr/forms/advanced",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\advanced.vue",
+    "chunkName": "pages/forms/advanced",
+    "_name": "_c3da5cbe"
+  },
+  {
+    "name": "forms-elements___fr",
+    "path": "/fr/forms/elements",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements",
+    "_name": "_508c9014"
+  },
+  {
+    "name": "forms-file-uploads___fr",
+    "path": "/fr/forms/file-uploads",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\file-uploads.vue",
+    "chunkName": "pages/forms/file-uploads",
+    "_name": "_720bc5c0"
+  },
+  {
+    "name": "forms-mask___fr",
+    "path": "/fr/forms/mask",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\mask.vue",
+    "chunkName": "pages/forms/mask",
+    "_name": "_461c06eb"
+  },
+  {
+    "name": "forms-quill___fr",
+    "path": "/fr/forms/quill",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\quill.vue",
+    "chunkName": "pages/forms/quill",
+    "_name": "_3fe4ced4"
+  },
+  {
+    "name": "forms-validation___fr",
+    "path": "/fr/forms/validation",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation",
+    "_name": "_542650b8"
+  },
+  {
+    "name": "forms-wizard___fr",
+    "path": "/fr/forms/wizard",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\forms\\\\wizard.vue",
+    "chunkName": "pages/forms/wizard",
+    "_name": "_d5649fac"
+  },
+  {
+    "name": "icons-boxicons___fr",
+    "path": "/fr/icons/boxicons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\boxicons.vue",
+    "chunkName": "pages/icons/boxicons",
+    "_name": "_674fb24e"
+  },
+  {
+    "name": "icons-data-fontawesome___fr",
+    "path": "/fr/icons/data-fontawesome",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-fontawesome.js",
+    "chunkName": "pages/icons/data-fontawesome",
+    "_name": "_665b14f4"
+  },
+  {
+    "name": "icons-data-material___fr",
+    "path": "/fr/icons/data-material",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-material.js",
+    "chunkName": "pages/icons/data-material",
+    "_name": "_a42bdf42"
+  },
+  {
+    "name": "icons-data-remix___fr",
+    "path": "/fr/icons/data-remix",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\data-remix.js",
+    "chunkName": "pages/icons/data-remix",
+    "_name": "_483b9f7f"
+  },
+  {
+    "name": "icons-feather___fr",
+    "path": "/fr/icons/feather",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\feather.vue",
+    "chunkName": "pages/icons/feather",
+    "_name": "_6b59602e"
+  },
+  {
+    "name": "icons-font-awesome___fr",
+    "path": "/fr/icons/font-awesome",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\font-awesome.vue",
+    "chunkName": "pages/icons/font-awesome",
+    "_name": "_2db7978f"
+  },
+  {
+    "name": "icons-mdi___fr",
+    "path": "/fr/icons/mdi",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\mdi.vue",
+    "chunkName": "pages/icons/mdi",
+    "_name": "_ef3c5710"
+  },
+  {
+    "name": "icons-remix___fr",
+    "path": "/fr/icons/remix",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\remix.vue",
+    "chunkName": "pages/icons/remix",
+    "_name": "_7cb8ff0f"
+  },
+  {
+    "name": "icons-weather___fr",
+    "path": "/fr/icons/weather",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\icons\\\\weather.vue",
+    "chunkName": "pages/icons/weather",
+    "_name": "_a4f9a28c"
+  },
+  {
+    "name": "Inventory-Inventory-list___fr",
+    "path": "/fr/Inventory/Inventory-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Inventory\\\\Inventory-list.vue",
+    "chunkName": "pages/Inventory/Inventory-list",
+    "_name": "_700148db"
+  },
+  {
+    "name": "maps-google___fr",
+    "path": "/fr/maps/google",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_7ed72f20"
+  },
+  {
+    "name": "PurchaseOrders-data___fr",
+    "path": "/fr/PurchaseOrders/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\data.js",
+    "chunkName": "pages/PurchaseOrders/data",
+    "_name": "_33fd505f"
+  },
+  {
+    "name": "PurchaseOrders-order-detail___fr",
+    "path": "/fr/PurchaseOrders/order-detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\order-detail.vue",
+    "chunkName": "pages/PurchaseOrders/order-detail",
+    "_name": "_6e218036"
+  },
+  {
+    "name": "PurchaseOrders-order-list___fr",
+    "path": "/fr/PurchaseOrders/order-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\order-list.vue",
+    "chunkName": "pages/PurchaseOrders/order-list",
+    "_name": "_48dc3943"
+  },
+  {
+    "name": "PurchaseOrders-Purchase-create___fr",
+    "path": "/fr/PurchaseOrders/Purchase-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\PurchaseOrders\\\\Purchase-create.vue",
+    "chunkName": "pages/PurchaseOrders/Purchase-create",
+    "_name": "_1a6c45dc"
+  },
+  {
+    "name": "SalesOrder-pallet___fr",
+    "path": "/fr/SalesOrder/pallet",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\pallet.vue",
+    "chunkName": "pages/SalesOrder/pallet",
+    "_name": "_dcc539fc"
+  },
+  {
+    "name": "SalesOrder-Sales-create___fr",
+    "path": "/fr/SalesOrder/Sales-create",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\Sales-create.vue",
+    "chunkName": "pages/SalesOrder/Sales-create",
+    "_name": "_63d0d65f"
+  },
+  {
+    "name": "SalesOrder-Sales-list___fr",
+    "path": "/fr/SalesOrder/Sales-list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\SalesOrder\\\\Sales-list.vue",
+    "chunkName": "pages/SalesOrder/Sales-list",
+    "_name": "_0d5e087e"
+  },
+  {
+    "name": "tables-advanced___fr",
+    "path": "/fr/tables/advanced",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\advanced\\\\index.vue",
+    "chunkName": "pages/tables/advanced/index",
+    "_name": "_807e798a"
+  },
+  {
+    "name": "tables-basic___fr",
+    "path": "/fr/tables/basic",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\basic.vue",
+    "chunkName": "pages/tables/basic",
+    "_name": "_fe003d8e"
+  },
+  {
+    "name": "task-detail___fr",
+    "path": "/fr/task/detail",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\detail.vue",
+    "chunkName": "pages/task/detail",
+    "_name": "_3ace9076"
+  },
+  {
+    "name": "task-kanban___fr",
+    "path": "/fr/task/kanban",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\kanban\\\\index.vue",
+    "chunkName": "pages/task/kanban/index",
+    "_name": "_3f2e70a6"
+  },
+  {
+    "name": "task-list___fr",
+    "path": "/fr/task/list",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\list.vue",
+    "chunkName": "pages/task/list",
+    "_name": "_dbdf4cfa"
+  },
+  {
+    "name": "ui-avatars___fr",
+    "path": "/fr/ui/avatars",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\avatars.vue",
+    "chunkName": "pages/ui/avatars",
+    "_name": "_4f5130b6"
+  },
+  {
+    "name": "ui-buttons___fr",
+    "path": "/fr/ui/buttons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\buttons.vue",
+    "chunkName": "pages/ui/buttons",
+    "_name": "_6276eb06"
+  },
+  {
+    "name": "ui-cards___fr",
+    "path": "/fr/ui/cards",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\cards.vue",
+    "chunkName": "pages/ui/cards",
+    "_name": "_354ada5f"
+  },
+  {
+    "name": "ui-carousel___fr",
+    "path": "/fr/ui/carousel",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\carousel.vue",
+    "chunkName": "pages/ui/carousel",
+    "_name": "_04e2bf94"
+  },
+  {
+    "name": "ui-dropdowns___fr",
+    "path": "/fr/ui/dropdowns",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\dropdowns.vue",
+    "chunkName": "pages/ui/dropdowns",
+    "_name": "_f4d61004"
+  },
+  {
+    "name": "ui-general___fr",
+    "path": "/fr/ui/general",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\general.vue",
+    "chunkName": "pages/ui/general",
+    "_name": "_6af9c864"
+  },
+  {
+    "name": "ui-grid___fr",
+    "path": "/fr/ui/grid",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\grid.vue",
+    "chunkName": "pages/ui/grid",
+    "_name": "_eeac970c"
+  },
+  {
+    "name": "ui-images___fr",
+    "path": "/fr/ui/images",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\images.vue",
+    "chunkName": "pages/ui/images",
+    "_name": "_74f668a8"
+  },
+  {
+    "name": "ui-list-group___fr",
+    "path": "/fr/ui/list-group",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\list-group.vue",
+    "chunkName": "pages/ui/list-group",
+    "_name": "_62371bc4"
+  },
+  {
+    "name": "ui-modals___fr",
+    "path": "/fr/ui/modals",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\modals.vue",
+    "chunkName": "pages/ui/modals",
+    "_name": "_753904cc"
+  },
+  {
+    "name": "ui-notifications___fr",
+    "path": "/fr/ui/notifications",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\notifications.vue",
+    "chunkName": "pages/ui/notifications",
+    "_name": "_056e1964"
+  },
+  {
+    "name": "ui-portlets___fr",
+    "path": "/fr/ui/portlets",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\portlets.vue",
+    "chunkName": "pages/ui/portlets",
+    "_name": "_01399b6d"
+  },
+  {
+    "name": "ui-progress___fr",
+    "path": "/fr/ui/progress",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\progress.vue",
+    "chunkName": "pages/ui/progress",
+    "_name": "_6db81c3e"
+  },
+  {
+    "name": "ui-ribbons___fr",
+    "path": "/fr/ui/ribbons",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\ribbons.vue",
+    "chunkName": "pages/ui/ribbons",
+    "_name": "_220d194e"
+  },
+  {
+    "name": "ui-spinners___fr",
+    "path": "/fr/ui/spinners",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\spinners.vue",
+    "chunkName": "pages/ui/spinners",
+    "_name": "_695c52ae"
+  },
+  {
+    "name": "ui-tabs-accordions___fr",
+    "path": "/fr/ui/tabs-accordions",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\tabs-accordions.vue",
+    "chunkName": "pages/ui/tabs-accordions",
+    "_name": "_77c67456"
+  },
+  {
+    "name": "ui-tooltips-popovers___fr",
+    "path": "/fr/ui/tooltips-popovers",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\tooltips-popovers.vue",
+    "chunkName": "pages/ui/tooltips-popovers",
+    "_name": "_69f20872"
+  },
+  {
+    "name": "ui-typography___fr",
+    "path": "/fr/ui/typography",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\typography.vue",
+    "chunkName": "pages/ui/typography",
+    "_name": "_4a9fdce3"
+  },
+  {
+    "name": "ui-video___fr",
+    "path": "/fr/ui/video",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ui\\\\video.vue",
+    "chunkName": "pages/ui/video",
+    "_name": "_db648912"
+  },
+  {
+    "name": "widgets-data___fr",
+    "path": "/fr/widgets/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\widgets\\\\data.js",
+    "chunkName": "pages/widgets/data",
+    "_name": "_3d3f1d74"
+  },
+  {
+    "name": "tables-advanced-data___en",
+    "path": "/tables/advanced/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\advanced\\\\data.js",
+    "chunkName": "pages/tables/advanced/data",
+    "_name": "_854759c4"
+  },
+  {
+    "name": "task-kanban-data___en",
+    "path": "/task/kanban/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\kanban\\\\data.js",
+    "chunkName": "pages/task/kanban/data",
+    "_name": "_0c9c5f49"
+  },
+  {
+    "name": "apps-calendar-data-calendar___ar",
+    "path": "/ar/apps/calendar/data-calendar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\calendar\\\\data-calendar.js",
+    "chunkName": "pages/apps/calendar/data-calendar",
+    "_name": "_a72ee1e4"
+  },
+  {
+    "name": "apps-chat-data___ar",
+    "path": "/ar/apps/chat/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\chat\\\\data.js",
+    "chunkName": "pages/apps/chat/data",
+    "_name": "_03c08c7b"
+  },
+  {
+    "name": "apps-Companies-data___ar",
+    "path": "/ar/apps/Companies/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\Companies\\\\data.js",
+    "chunkName": "pages/apps/Companies/data",
+    "_name": "_036766a8"
+  },
+  {
+    "name": "charts-apex-data___ar",
+    "path": "/ar/charts/apex/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\apex\\\\data.js",
+    "chunkName": "pages/charts/apex/data",
+    "_name": "_6b8880a4"
+  },
+  {
+    "name": "charts-c3-data___ar",
+    "path": "/ar/charts/c3/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\c3\\\\data.js",
+    "chunkName": "pages/charts/c3/data",
+    "_name": "_508b9dc0"
+  },
+  {
+    "name": "charts-chartist-data___ar",
+    "path": "/ar/charts/chartist/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\data.js",
+    "chunkName": "pages/charts/chartist/data",
+    "_name": "_6ac406a4"
+  },
+  {
+    "name": "charts-chartjs-BarChart___ar",
+    "path": "/ar/charts/chartjs/BarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\BarChart.vue",
+    "chunkName": "pages/charts/chartjs/BarChart",
+    "_name": "_3aff02ad"
+  },
+  {
+    "name": "charts-chartjs-DonutChart___ar",
+    "path": "/ar/charts/chartjs/DonutChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\DonutChart.vue",
+    "chunkName": "pages/charts/chartjs/DonutChart",
+    "_name": "_712a5404"
+  },
+  {
+    "name": "charts-chartjs-LineChart___ar",
+    "path": "/ar/charts/chartjs/LineChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\LineChart.vue",
+    "chunkName": "pages/charts/chartjs/LineChart",
+    "_name": "_8ff57dd0"
+  },
+  {
+    "name": "charts-chartjs-PieChart___ar",
+    "path": "/ar/charts/chartjs/PieChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PieChart.vue",
+    "chunkName": "pages/charts/chartjs/PieChart",
+    "_name": "_33be3558"
+  },
+  {
+    "name": "charts-chartjs-PolarChart___ar",
+    "path": "/ar/charts/chartjs/PolarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PolarChart.vue",
+    "chunkName": "pages/charts/chartjs/PolarChart",
+    "_name": "_7807b53c"
+  },
+  {
+    "name": "charts-chartjs-RadarChart___ar",
+    "path": "/ar/charts/chartjs/RadarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\RadarChart.vue",
+    "chunkName": "pages/charts/chartjs/RadarChart",
+    "_name": "_3f00329a"
+  },
+  {
+    "name": "dashboard-analytics-channels___ar",
+    "path": "/ar/dashboard/analytics/channels",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\channels.vue",
+    "chunkName": "pages/dashboard/analytics/channels",
+    "_name": "_cf93c43c"
+  },
+  {
+    "name": "dashboard-analytics-overview___ar",
+    "path": "/ar/dashboard/analytics/overview",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\overview.vue",
+    "chunkName": "pages/dashboard/analytics/overview",
+    "_name": "_422beb0b"
+  },
+  {
+    "name": "dashboard-analytics-social-media___ar",
+    "path": "/ar/dashboard/analytics/social-media",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\social-media.vue",
+    "chunkName": "pages/dashboard/analytics/social-media",
+    "_name": "_76bd4896"
+  },
+  {
+    "name": "dashboard-analytics-sources___ar",
+    "path": "/ar/dashboard/analytics/sources",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\sources.vue",
+    "chunkName": "pages/dashboard/analytics/sources",
+    "_name": "_538c2b96"
+  },
+  {
+    "name": "dashboard-analytics-users___ar",
+    "path": "/ar/dashboard/analytics/users",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\users.vue",
+    "chunkName": "pages/dashboard/analytics/users",
+    "_name": "_564e0f66"
+  },
+  {
+    "name": "ecommerce-orders-data___ar",
+    "path": "/ar/ecommerce/orders/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\orders\\\\data.js",
+    "chunkName": "pages/ecommerce/orders/data",
+    "_name": "_58166610"
+  },
+  {
+    "name": "ecommerce-products-data___ar",
+    "path": "/ar/ecommerce/products/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products\\\\data.js",
+    "chunkName": "pages/ecommerce/products/data",
+    "_name": "_3bafc471"
+  },
+  {
+    "name": "Finance-Expenses-Expense___ar",
+    "path": "/ar/Finance/Expenses/Expense",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Expenses\\\\Expense.vue",
+    "chunkName": "pages/Finance/Expenses/Expense",
+    "_name": "_1d495e03"
+  },
+  {
+    "name": "Finance-Expenses-list-Expenses___ar",
+    "path": "/ar/Finance/Expenses/list-Expenses",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Expenses\\\\list-Expenses.vue",
+    "chunkName": "pages/Finance/Expenses/list-Expenses",
+    "_name": "_757843d6"
+  },
+  {
+    "name": "tables-advanced-data___ar",
+    "path": "/ar/tables/advanced/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\advanced\\\\data.js",
+    "chunkName": "pages/tables/advanced/data",
+    "_name": "_854759c4"
+  },
+  {
+    "name": "task-kanban-data___ar",
+    "path": "/ar/task/kanban/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\kanban\\\\data.js",
+    "chunkName": "pages/task/kanban/data",
+    "_name": "_0c9c5f49"
+  },
+  {
+    "name": "apps-calendar-data-calendar___es",
+    "path": "/es/apps/calendar/data-calendar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\calendar\\\\data-calendar.js",
+    "chunkName": "pages/apps/calendar/data-calendar",
+    "_name": "_a72ee1e4"
+  },
+  {
+    "name": "apps-chat-data___es",
+    "path": "/es/apps/chat/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\chat\\\\data.js",
+    "chunkName": "pages/apps/chat/data",
+    "_name": "_03c08c7b"
+  },
+  {
+    "name": "apps-Companies-data___es",
+    "path": "/es/apps/Companies/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\Companies\\\\data.js",
+    "chunkName": "pages/apps/Companies/data",
+    "_name": "_036766a8"
+  },
+  {
+    "name": "charts-apex-data___es",
+    "path": "/es/charts/apex/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\apex\\\\data.js",
+    "chunkName": "pages/charts/apex/data",
+    "_name": "_6b8880a4"
+  },
+  {
+    "name": "charts-c3-data___es",
+    "path": "/es/charts/c3/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\c3\\\\data.js",
+    "chunkName": "pages/charts/c3/data",
+    "_name": "_508b9dc0"
+  },
+  {
+    "name": "charts-chartist-data___es",
+    "path": "/es/charts/chartist/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\data.js",
+    "chunkName": "pages/charts/chartist/data",
+    "_name": "_6ac406a4"
+  },
+  {
+    "name": "charts-chartjs-BarChart___es",
+    "path": "/es/charts/chartjs/BarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\BarChart.vue",
+    "chunkName": "pages/charts/chartjs/BarChart",
+    "_name": "_3aff02ad"
+  },
+  {
+    "name": "charts-chartjs-DonutChart___es",
+    "path": "/es/charts/chartjs/DonutChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\DonutChart.vue",
+    "chunkName": "pages/charts/chartjs/DonutChart",
+    "_name": "_712a5404"
+  },
+  {
+    "name": "charts-chartjs-LineChart___es",
+    "path": "/es/charts/chartjs/LineChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\LineChart.vue",
+    "chunkName": "pages/charts/chartjs/LineChart",
+    "_name": "_8ff57dd0"
+  },
+  {
+    "name": "charts-chartjs-PieChart___es",
+    "path": "/es/charts/chartjs/PieChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PieChart.vue",
+    "chunkName": "pages/charts/chartjs/PieChart",
+    "_name": "_33be3558"
+  },
+  {
+    "name": "charts-chartjs-PolarChart___es",
+    "path": "/es/charts/chartjs/PolarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PolarChart.vue",
+    "chunkName": "pages/charts/chartjs/PolarChart",
+    "_name": "_7807b53c"
+  },
+  {
+    "name": "charts-chartjs-RadarChart___es",
+    "path": "/es/charts/chartjs/RadarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\RadarChart.vue",
+    "chunkName": "pages/charts/chartjs/RadarChart",
+    "_name": "_3f00329a"
+  },
+  {
+    "name": "dashboard-analytics-channels___es",
+    "path": "/es/dashboard/analytics/channels",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\channels.vue",
+    "chunkName": "pages/dashboard/analytics/channels",
+    "_name": "_cf93c43c"
+  },
+  {
+    "name": "dashboard-analytics-overview___es",
+    "path": "/es/dashboard/analytics/overview",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\overview.vue",
+    "chunkName": "pages/dashboard/analytics/overview",
+    "_name": "_422beb0b"
+  },
+  {
+    "name": "dashboard-analytics-social-media___es",
+    "path": "/es/dashboard/analytics/social-media",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\social-media.vue",
+    "chunkName": "pages/dashboard/analytics/social-media",
+    "_name": "_76bd4896"
+  },
+  {
+    "name": "dashboard-analytics-sources___es",
+    "path": "/es/dashboard/analytics/sources",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\sources.vue",
+    "chunkName": "pages/dashboard/analytics/sources",
+    "_name": "_538c2b96"
+  },
+  {
+    "name": "dashboard-analytics-users___es",
+    "path": "/es/dashboard/analytics/users",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\users.vue",
+    "chunkName": "pages/dashboard/analytics/users",
+    "_name": "_564e0f66"
+  },
+  {
+    "name": "ecommerce-orders-data___es",
+    "path": "/es/ecommerce/orders/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\orders\\\\data.js",
+    "chunkName": "pages/ecommerce/orders/data",
+    "_name": "_58166610"
+  },
+  {
+    "name": "ecommerce-products-data___es",
+    "path": "/es/ecommerce/products/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products\\\\data.js",
+    "chunkName": "pages/ecommerce/products/data",
+    "_name": "_3bafc471"
+  },
+  {
+    "name": "Finance-Expenses-Expense___es",
+    "path": "/es/Finance/Expenses/Expense",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Expenses\\\\Expense.vue",
+    "chunkName": "pages/Finance/Expenses/Expense",
+    "_name": "_1d495e03"
+  },
+  {
+    "name": "Finance-Expenses-list-Expenses___es",
+    "path": "/es/Finance/Expenses/list-Expenses",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Expenses\\\\list-Expenses.vue",
+    "chunkName": "pages/Finance/Expenses/list-Expenses",
+    "_name": "_757843d6"
+  },
+  {
+    "name": "tables-advanced-data___es",
+    "path": "/es/tables/advanced/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\advanced\\\\data.js",
+    "chunkName": "pages/tables/advanced/data",
+    "_name": "_854759c4"
+  },
+  {
+    "name": "task-kanban-data___es",
+    "path": "/es/task/kanban/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\kanban\\\\data.js",
+    "chunkName": "pages/task/kanban/data",
+    "_name": "_0c9c5f49"
+  },
+  {
+    "name": "apps-calendar-data-calendar___fr",
+    "path": "/fr/apps/calendar/data-calendar",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\calendar\\\\data-calendar.js",
+    "chunkName": "pages/apps/calendar/data-calendar",
+    "_name": "_a72ee1e4"
+  },
+  {
+    "name": "apps-chat-data___fr",
+    "path": "/fr/apps/chat/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\chat\\\\data.js",
+    "chunkName": "pages/apps/chat/data",
+    "_name": "_03c08c7b"
+  },
+  {
+    "name": "apps-Companies-data___fr",
+    "path": "/fr/apps/Companies/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\apps\\\\Companies\\\\data.js",
+    "chunkName": "pages/apps/Companies/data",
+    "_name": "_036766a8"
+  },
+  {
+    "name": "charts-apex-data___fr",
+    "path": "/fr/charts/apex/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\apex\\\\data.js",
+    "chunkName": "pages/charts/apex/data",
+    "_name": "_6b8880a4"
+  },
+  {
+    "name": "charts-c3-data___fr",
+    "path": "/fr/charts/c3/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\c3\\\\data.js",
+    "chunkName": "pages/charts/c3/data",
+    "_name": "_508b9dc0"
+  },
+  {
+    "name": "charts-chartist-data___fr",
+    "path": "/fr/charts/chartist/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartist\\\\data.js",
+    "chunkName": "pages/charts/chartist/data",
+    "_name": "_6ac406a4"
+  },
+  {
+    "name": "charts-chartjs-BarChart___fr",
+    "path": "/fr/charts/chartjs/BarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\BarChart.vue",
+    "chunkName": "pages/charts/chartjs/BarChart",
+    "_name": "_3aff02ad"
+  },
+  {
+    "name": "charts-chartjs-DonutChart___fr",
+    "path": "/fr/charts/chartjs/DonutChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\DonutChart.vue",
+    "chunkName": "pages/charts/chartjs/DonutChart",
+    "_name": "_712a5404"
+  },
+  {
+    "name": "charts-chartjs-LineChart___fr",
+    "path": "/fr/charts/chartjs/LineChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\LineChart.vue",
+    "chunkName": "pages/charts/chartjs/LineChart",
+    "_name": "_8ff57dd0"
+  },
+  {
+    "name": "charts-chartjs-PieChart___fr",
+    "path": "/fr/charts/chartjs/PieChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PieChart.vue",
+    "chunkName": "pages/charts/chartjs/PieChart",
+    "_name": "_33be3558"
+  },
+  {
+    "name": "charts-chartjs-PolarChart___fr",
+    "path": "/fr/charts/chartjs/PolarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\PolarChart.vue",
+    "chunkName": "pages/charts/chartjs/PolarChart",
+    "_name": "_7807b53c"
+  },
+  {
+    "name": "charts-chartjs-RadarChart___fr",
+    "path": "/fr/charts/chartjs/RadarChart",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\charts\\\\chartjs\\\\RadarChart.vue",
+    "chunkName": "pages/charts/chartjs/RadarChart",
+    "_name": "_3f00329a"
+  },
+  {
+    "name": "dashboard-analytics-channels___fr",
+    "path": "/fr/dashboard/analytics/channels",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\channels.vue",
+    "chunkName": "pages/dashboard/analytics/channels",
+    "_name": "_cf93c43c"
+  },
+  {
+    "name": "dashboard-analytics-overview___fr",
+    "path": "/fr/dashboard/analytics/overview",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\overview.vue",
+    "chunkName": "pages/dashboard/analytics/overview",
+    "_name": "_422beb0b"
+  },
+  {
+    "name": "dashboard-analytics-social-media___fr",
+    "path": "/fr/dashboard/analytics/social-media",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\social-media.vue",
+    "chunkName": "pages/dashboard/analytics/social-media",
+    "_name": "_76bd4896"
+  },
+  {
+    "name": "dashboard-analytics-sources___fr",
+    "path": "/fr/dashboard/analytics/sources",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\sources.vue",
+    "chunkName": "pages/dashboard/analytics/sources",
+    "_name": "_538c2b96"
+  },
+  {
+    "name": "dashboard-analytics-users___fr",
+    "path": "/fr/dashboard/analytics/users",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\dashboard\\\\analytics\\\\users.vue",
+    "chunkName": "pages/dashboard/analytics/users",
+    "_name": "_564e0f66"
+  },
+  {
+    "name": "ecommerce-orders-data___fr",
+    "path": "/fr/ecommerce/orders/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\orders\\\\data.js",
+    "chunkName": "pages/ecommerce/orders/data",
+    "_name": "_58166610"
+  },
+  {
+    "name": "ecommerce-products-data___fr",
+    "path": "/fr/ecommerce/products/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\products\\\\data.js",
+    "chunkName": "pages/ecommerce/products/data",
+    "_name": "_3bafc471"
+  },
+  {
+    "name": "Finance-Expenses-Expense___fr",
+    "path": "/fr/Finance/Expenses/Expense",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Expenses\\\\Expense.vue",
+    "chunkName": "pages/Finance/Expenses/Expense",
+    "_name": "_1d495e03"
+  },
+  {
+    "name": "Finance-Expenses-list-Expenses___fr",
+    "path": "/fr/Finance/Expenses/list-Expenses",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\Finance\\\\Expenses\\\\list-Expenses.vue",
+    "chunkName": "pages/Finance/Expenses/list-Expenses",
+    "_name": "_757843d6"
+  },
+  {
+    "name": "tables-advanced-data___fr",
+    "path": "/fr/tables/advanced/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\tables\\\\advanced\\\\data.js",
+    "chunkName": "pages/tables/advanced/data",
+    "_name": "_854759c4"
+  },
+  {
+    "name": "task-kanban-data___fr",
+    "path": "/fr/task/kanban/data",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\task\\\\kanban\\\\data.js",
+    "chunkName": "pages/task/kanban/data",
+    "_name": "_0c9c5f49"
+  },
+  {
+    "name": "ecommerce-product-detail-id___ar",
+    "path": "/ar/ecommerce/product-detail/:id?",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\product-detail\\\\_id.vue",
+    "chunkName": "pages/ecommerce/product-detail/_id",
+    "_name": "_890c52ea"
+  },
+  {
+    "name": "email-reademail-id___ar",
+    "path": "/ar/email/reademail/:id?",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\reademail\\\\_id.vue",
+    "chunkName": "pages/email/reademail/_id",
+    "_name": "_2e293060"
+  },
+  {
+    "name": "ecommerce-product-detail-id___es",
+    "path": "/es/ecommerce/product-detail/:id?",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\product-detail\\\\_id.vue",
+    "chunkName": "pages/ecommerce/product-detail/_id",
+    "_name": "_890c52ea"
+  },
+  {
+    "name": "email-reademail-id___es",
+    "path": "/es/email/reademail/:id?",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\reademail\\\\_id.vue",
+    "chunkName": "pages/email/reademail/_id",
+    "_name": "_2e293060"
+  },
+  {
+    "name": "ecommerce-product-detail-id___fr",
+    "path": "/fr/ecommerce/product-detail/:id?",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\product-detail\\\\_id.vue",
+    "chunkName": "pages/ecommerce/product-detail/_id",
+    "_name": "_890c52ea"
+  },
+  {
+    "name": "email-reademail-id___fr",
+    "path": "/fr/email/reademail/:id?",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\reademail\\\\_id.vue",
+    "chunkName": "pages/email/reademail/_id",
+    "_name": "_2e293060"
+  },
+  {
+    "name": "ecommerce-product-detail-id___en",
+    "path": "/ecommerce/product-detail/:id?",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\ecommerce\\\\product-detail\\\\_id.vue",
+    "chunkName": "pages/ecommerce/product-detail/_id",
+    "_name": "_890c52ea"
+  },
+  {
+    "name": "email-reademail-id___en",
+    "path": "/email/reademail/:id?",
+    "component": "C:\\\\dev\\\\xiva-pk\\\\client\\\\Minton_vue_nuxt_v1.0.0\\\\Admin\\\\pages\\\\email\\\\reademail\\\\_id.vue",
+    "chunkName": "pages/email/reademail/_id",
+    "_name": "_2e293060"
+  },
+  {
+    "path": "/",
+    "component": "~/pages/dashboard/sales/index.vue",
+    "_name": "_7a6dbb4c"
+  }
+]
